@@ -1,6 +1,6 @@
 # Sources, and where each one is used (final v20, 9 Oct 2026)
 
-Section names follow the Seeking Alpha version (SA v19). "X" refers to the X version (v19). Every number traces to a source below, or to a script in `scripts/` whose output sits in `results/`. Where I don't have a stable link, the source is named with its date.
+Section names in the older tables follow SA v19; the final v20 section map is directly below. "X" refers to the X version. Every number traces to a source below, or to a script in `scripts/` whose output sits in `results/`. Where I don't have a stable link, the source is named with its date.
 
 ## Final v20: section map and new sources
 
@@ -16,7 +16,7 @@ Sections of the final Seeking Alpha text: Opening; The Customers Own The War; Th
 | Egypt Oil & Gas / Reuters, 6 Oct 2026 https://egyptoil-gas.com/news/qatar-lng-cargoes-resume-strait-of-hormuz-transits/ ; QatarEnergy warning (21 Sep 2026) https://egyptoil-gas.com/news/qatarenergy-warns-hormuz-crisis-could-delay-lng-expansion-projects/ ; Bloomberg on force majeure into October https://www.bloomberg.com/news/articles/2026-08-28/qatar-extends-lng-force-majeure-as-hormuz-traffic-remains-halted | Hormuz status; expansion delay risk; force majeure | Scenarios And Risks; Hormuz scenario assumptions |
 | scripts/model_v20_backtest.py, model_v20_supply.py, model_v20_addons.py | Fee curve, approvals rule, odds 35% (0/6/100%), mean fee $3.12 -> $9.39, break-even 22-33, Hormuz $13.61 / $19.13 | Opening; Testing; What The 2030s Need; Scenarios And Risks; Charts 4, 5, 6, 9 |
 
-Final chart list (unpublished, Datawrapper folder 449514): 1 pCkRq glance, 2 gYAn7 Q3 split, 3 OPSnE regimes, 4 3HIh1 plant-by-plant supply, 5 A769V backtest (new), 6 lHJ2r approvals needed vs implied, 7 oYIPi contract fees, 8 LnQ27 replacement cost, 9 PKP7W scenarios incl. Hormuz (new copy of Uwgsm), 10 cu3SO earnings. Appendix only: tJdmX judgment audit, dkif7 trade.
+Final chart list (unpublished, Datawrapper folder 449514): 1 gmdDf glance (copy of pCkRq with v20 rows), 2 gYAn7 Q3 split, 3 OPSnE regimes, 4 3HIh1 plant-by-plant supply, 5 A769V backtest (new), 6 lHJ2r approvals needed vs implied, 7 oYIPi contract fees, 8 LnQ27 replacement cost, 9 PKP7W scenarios incl. Hormuz (new copy of Uwgsm), 10 cu3SO earnings. Appendix only: tJdmX judgment audit, dkif7 trade.
 
 ## Market data (prices, curves, consensus)
 

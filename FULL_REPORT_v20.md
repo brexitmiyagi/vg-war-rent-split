@@ -6,21 +6,21 @@ The test is one number. To justify $13.05, the fee on Venture Global's uncontrac
 
 The near term will likely go against this call. I expect a guidance raise with Q3 results in mid-November (the date isn't announced), my 2027 EPS is far above consensus, and Hormuz is still disrupted. A rally on the print wouldn't change the 2030s. This is a call on valuation, not on management: selling forward is how plants get financed, and Venture Global builds faster than anyone.
 
-[[CHART 1, Datawrapper pCkRq: Venture Global (VG): the numbers at a glance]]
+[[CHART 1, Datawrapper gmdDf: Venture Global (VG): the numbers at a glance]]
 
 ## The Customers Own The War
 
-On October 7, Venture Global reported third-quarter cargoes of 465.8 TBtu at an implied liquefaction fee of $6.79 per MMBtu. On the company's own formula, JKM less 115% of Henry Hub less $2, a spot cargo cleared about $17.43 on my estimate. Of the roughly $7.0 billion of spread above Calcasieu's $2.36 contract fee, my split gives Calcasieu's 20-year buyers about 30%, the buyers of Plaquemines' forward-sold cargoes 41% and Venture Global 29%. Those are my estimates; the company reports one blended fee.
+On October 7, Venture Global reported third-quarter cargoes of 465.8 TBtu at an implied liquefaction fee of $6.79 per MMBtu. On the company's own formula, JKM less 115% of Henry Hub less $2, a spot cargo would have earned a fee of about $17.43 on my estimate. Of the roughly $7.0 billion of spread above Calcasieu's $2.36 contract fee, my split gives Calcasieu's 20-year buyers about 30%, the buyers of Plaquemines' forward-sold cargoes 41% and Venture Global 29%. Those are my estimates; the company reports one blended fee.
 
 [[CHART 2, Datawrapper gYAn7: Who ended up with the Q3 spread (author's estimates)]]
 
 Even the open cargoes earn the price on the day they're sold, not spot. The 10-K says those sales "may be uncorrelated with movements in spot LNG prices," and 69% of 2026 was sold by February 25, three days before the war began.
 
-The 2030s carry more exposure. The August deck shows 47 of 85 MTPA on 10-to-20-year contracts, 6 medium-term and 32 available, and Sabel said the bolt-ons will carry "more midterm contracts." Since then the company has signed 1.5 MTPA of 20-year deals from 2030 with China Gas and ConocoPhillips at undisclosed fees; at the $2.45 blended contract fee they add about $0.03 a share. About 36% is uncontracted today and 43% once the medium-term deals roll off.
+The 2030s carry more exposure. The August deck shows 47 of 85 MTPA on 10-to-20-year contracts, 6 medium-term and 32 available, and Sabel said the bolt-ons will carry "more midterm contracts." Since then the company has signed 1.5 MTPA of 20-year deals from 2030 with China Gas and ConocoPhillips at undisclosed fees; valued at the $2.45 blended contract fee, they add about $0.03 a share. About 36% is uncontracted today and 43% once the medium-term deals roll off.
 
 ## The Fee Depends On The Regime
 
-The bull case leans on Venture Global's slide showing a 2010–26 fee median of $5.19. That average mixes two markets. On the IMF's series, the fee averaged $18.80 in 2021–22 and $10.80 to $11.90 so far in 2026, but $0.45 on TTF and $1.62 on JKM through the 2015–20 supply wave. In between, 2023–25 paid about $7, and Argus agrees: Gulf Coast spot beat a long-term contract by $4.11 to $5.37 in each of those years. That's the bull's best evidence, but those years were a market rebalancing after a shock, not one absorbing a wave.
+The bull case leans on Venture Global's slide showing a 2010–26 fee median of $5.19. That average mixes two markets. On the IMF's series, the fee averaged $18.80 in 2021–22 and $10.80 to $11.90 so far in 2026, but $0.45 on TTF and $1.62 on JKM through the 2015–20 supply wave. In between, 2023–25 paid about $7, and Argus points the same way: Gulf Coast spot beat a long-term contract by $4.11 to $5.37 in each of those years. That's the bull's best evidence, but those years were a market rebalancing after a shock, not one absorbing a wave.
 
 Call a shortage year one in which a shock pushed the fee far above what a new plant needs: 2011–14 after Fukushima, 2021–22 with Russia, 2026 with Hormuz. Those years were 43% of the months from 2011 to September 2026, and with wave-like years in between, $4.49 needs 44%. Leave out 2011–14 and history gives 23% against 25% needed. If the years between shortages look like 2015–25 as a whole, the price needs far less, so history alone can't settle it. What settles it is whether the 2030s look like a wave.
 
@@ -30,13 +30,13 @@ The futures say the wave is coming. On October 7 settlements, the implied fee is
 
 ## The Wave, Plant By Plant
 
-I built supply plant by plant: the 524.5 MTPA the IGU counts as operating at the end of 2025, plus 24 sanctioned projects (249 MTPA) on each developer's latest timetable, from Golden Pass, Port Arthur, Rio Grande, CP2 and Woodside Louisiana to Qatar's North Field East and South. The under-construction projects reconcile to the IGU's 234.3 MTPA within 0.3. Plants run at the IGU's 2025 utilisation of 84%, which reproduces 2025 trade within 1%, less the IEA's war losses and its estimate of feed-gas losses at older plants. On that build, supply runs 9% above GECF's demand path in 2030, 17% above the midpoint and 26% above Shell's.
+I built supply plant by plant: the 524.5 MTPA the IGU counts as operating at the end of 2025, plus 24 sanctioned projects (249 MTPA) on each developer's latest timetable, from Golden Pass, Port Arthur, Rio Grande, CP2 and Woodside Louisiana to Qatar's North Field East and South. The projects the IGU counts as under construction, plus Arctic LNG 2, which I leave out because of sanctions, reconcile to its 234.3 MTPA within 0.3. Plants run at 84%, the IGU's 2025 utilisation, which reproduces 2025 trade within 1%. From that I take off the IEA's war losses and its estimate of feed-gas losses at older plants. On that build, supply runs 9% above GECF's demand path in 2030, 17% above the midpoint and 26% above Shell's.
 
 [[CHART 4, Datawrapper 3HIh1: The wave, plant by plant]]
 
 ## Testing The Model On 2015–2025
 
-Before trusting it for the 2030s, I ran the same construction over 2015–2025: IGU capacity at 84% against trend demand, compared with the fee the market actually paid. A three-state glut, balanced and shortage classifier got only 4 of 11 years right, so I dropped it. A straight line does better. Each point of surplus took about $0.46 off the fee, and a balanced market paid about $3.00, close to the $2.68 to $3.00 that new US plants need. That fit explains 46% of the variation outside 2021–22 and misses those two years, when Russia's pipeline cut hit from outside the LNG balance. I model those shocks separately.
+Before trusting it for the 2030s, I ran the same construction over 2015–2025: IGU capacity at 84% against trend demand, compared with the fee the market actually paid. A three-state glut, balanced and shortage classifier got only 4 of 11 years right, so I dropped it. A straight line does better. Each point of surplus took about $0.46 off the fee, and the fit puts a balanced market at about $3.00, close to the $2.68 to $3.00 that the cheapest new US plants need. That fit explains 46% of the variation outside 2021–22 and misses those two years, when Russia's pipeline cut hit from outside the LNG balance. I model those shocks separately.
 
 [[CHART 5, Datawrapper A769V: Backtest: what the supply balance predicted vs the fee paid]]
 
@@ -44,9 +44,9 @@ The fitted line on my build prices 2030–31 well below the futures, so I calibr
 
 ## What The 2030s Need From New Plants
 
-The model's fee then depends on how fast the industry approves new plants, and approvals respond to price. Using the IGU's approvals since 2016, the industry approved about 25 MTPA a year after cheap years and about 41 after expensive ones, so I model approvals as 24.5 MTPA plus 1.28 for every $1 of the previous year's fee. US contracts lead the approvals: US buyers signed 54 MTPA in 2022, the most in the EIA's 2021–25 series, ahead of the 2023 approvals, and 40 MTPA in 2025 ahead of this year's CP2 Phase 2, Commonwealth and Delfin decisions.
+The model's fee then depends on how fast the industry approves new plants, and approvals respond to price. Using the IGU's approvals since 2016, the industry approved about 25 MTPA a year after cheap years and about 41 after expensive ones, so I model approvals as 24.5 MTPA plus 1.28 for every $1 of the previous year's fee. Contracts lead the approvals: buyers signed 54 MTPA with US developers in 2022, the most in the EIA's 2021–25 series, ahead of the 2023 approvals, and 40 MTPA in 2025 ahead of this year's CP2 Phase 2, Commonwealth and Delfin decisions.
 
-On the midpoint demand path, the price needs approvals below about 28 MTPA a year (22 to 33, depending on how fast older plants decline), and the industry's own behaviour implies about 30. On GECF's path, the price needs fewer than 39 to 50 against about 34 implied, so the price works. On Shell's, it needs fewer than 6 to 17 against about 26, so it doesn't. Averaged across the three paths, the fee clears $4.49 in about 35% of cases: 0% on Shell's path, 6% on the midpoint and 100% on GECF's. The odds are a bet on demand.
+On the midpoint demand path, the price needs approvals below about 28 MTPA a year (22 to 33, depending on how fast older plants decline), and the industry's own behaviour implies about 30. On GECF's path the price can absorb 39 to 50 a year against about 34 implied, so it works. On Shell's it needs fewer than 6 to 17 against about 26, so it doesn't. Averaged across the three paths, the fee clears $4.49 in about 35% of cases: 0% on Shell's path, 6% on the midpoint and 100% on GECF's. The odds are a bet on demand.
 
 [[CHART 6, Datawrapper lHJ2r: What the price needs from new LNG plants, and what history implies]]
 
@@ -54,7 +54,7 @@ The model's average 2032–49 fee, shocks included, is $3.12, below the $3.50 I 
 
 ## What Venture Global Can Lock In, And What A New Plant Needs
 
-Contract fees aren't forecasts of spot. Vitol's five-year deal, signed three weeks into the war, priced near $3 while the 2027 strip implied about $8.70. They do show what Venture Global can hedge. Since late 2023, reported 20-year fees run from $2.30 to $2.95 (Poten, Reuters), Argus's indicative contract is 115% of Henry Hub plus $3, and five-year deals sit around $3.00 to $3.15. None is within $1.30 of $4.49, so any premium the 2030s pay above contract levels, Venture Global earns unhedged.
+Contract fees aren't forecasts of spot. Vitol's five-year deal, signed three weeks into the war, priced near $3 while the 2027 strip implied about $8.70. They do show what Venture Global can hedge. Since late 2023, reported 10-to-20-year fees run from $2.30 to $2.95 (Poten, Reuters), Argus's indicative contract is 115% of Henry Hub plus $3, and five-year deals sit around $3.00 to $3.15. None is within $1.30 of $4.49, so any premium the 2030s pay above contract levels, Venture Global earns unhedged.
 
 [[CHART 7, Datawrapper oYIPi: What Venture Global can lock in today, against what the price needs]]
 
@@ -66,7 +66,7 @@ Replacement cost anchors the average. On the developers' own FID costs, Woodside
 
 I use futures through 2031, then $3.50, and discount contracted cash at 7%, about where Venture Global's secured debt prices, and open cargoes at 10%, behind the debt and the 9.0% preferred. Deals point the same way: Sempra's Port Arthur numbers imply about 7.6% unlevered after tax, and Cheniere, 90%-plus contracted, trades at about an 8.5% EBITDA yield on its run rate. After net debt, the $3.0 billion preferred, Stonepeak's 23% of Calcasieu and half the low end of BP's claim, the stock is worth about $9.00 today and $11.27 at the end of 2028, on 2.643 billion diluted shares. That sets the $11.25 target. Each $1 of long-run fee is worth about $4.10 a share.
 
-The rating rests on the 10% rate. CAPM gives about 9.1%, but on a beta that explains only about 3% of the stock's moves. At CAPM-consistent 6% and 9%, the weighted end-2028 value is $15.74, and Hold would be the call. I rate it a Sell because the deal evidence says open commodity exposure costs more, and that's why conviction is moderate. On multiples the stock looks cheap on 2026's war-year EBITDA (8.9 times against Cheniere's 11.6) and doesn't on mine for 2031 (10.6 times).
+The rating rests on the 10% rate. CAPM gives about 9.1%, but on a beta that explains only about 3% of the stock's moves. At CAPM-consistent 6% and 9%, the weighted end-2028 value is $15.74, and Hold would be the call. I rate it a Sell because the deal evidence says open commodity exposure costs more, and that's why conviction is moderate. On multiples the stock looks cheap on 2026's war-year EBITDA (8.9 times against Cheniere's 11.6) but not on my 2031 EBITDA (10.6 times).
 
 ## Scenarios And Risks
 
@@ -74,11 +74,11 @@ Four cases: a $2.50 fee (25%), $3.50 (45%), $4.50 (20%) and management's 2029 fr
 
 [[CHART 9, Datawrapper PKP7W: Scenarios, sensitivities and what the options imply]]
 
-The biggest risk to the call is Hormuz. Shipments through the strait were still about 75% below February levels in September, QatarEnergy extended force majeure into October and has warned the crisis could delay its expansion. If Gulf exports run at a quarter of normal through 2027 and half in 2028, with North Field East and South two years late, my model adds about $1.90 and $1.60 to the 2028 and 2029 fees, which takes the end-2028 value to about $13.61. A severe version, with 2027 paying 2022's $28, gets to about $19. Faster approvals in response keep the long-run fee roughly unchanged.
+The biggest risk to the call is Hormuz. LNG shipments through the strait were still about 75% below February levels in September, QatarEnergy extended force majeure into October and has warned the crisis could delay its expansion. If Gulf exports run at a quarter of normal through 2027 and half in 2028, with North Field East and South two years late, my model adds about $1.90 and $1.60 to the 2028 and 2029 fees, which takes the end-2028 value to about $13.61. A severe version, with 2027 paying 2022's $28, gets to about $19. Faster approvals in response keep the long-run fee roughly unchanged.
 
 Management's number is the next risk. In March, Sabel said a $3 fee gives 2029 EBITDA of "about $11 billion"; I get $7.9 billion, and only about $1.1 billion of the gap is the company's own inconsistency. If he's right, the stock needs only $2.32, hence the 10% weight. J.P. Morgan rates it Overweight with a $17 target on "outsized" margins; if Venture Global signs 2029–31 volume at $4.49 or more, I'm wrong.
 
-Cost and claims cut the other way. A six-month CP2 delay takes today's value to $7.44, a year to $5.90, and a 10% overrun on my $30 billion CP2 cost basis takes about $1.11 off the end-2028 value. BP's damages hearing is in May 2027 on a claim of "$3.7 billion to potentially in excess of $6.0 billion," and on October 7 a tribunal found Calcasieu liable to Galp for declaring commercial operations late, with damages capped at $170 million.
+Costs and claims add to the downside. A six-month CP2 delay takes today's value to $7.44, a year to $5.90, and a 10% overrun on my $30 billion CP2 cost basis takes about $1.11 off the end-2028 value. BP's damages hearing is in May 2027 on a claim of "$3.7 billion to potentially in excess of $6.0 billion," and on October 7 a tribunal found Calcasieu liable to Galp for declaring commercial operations late, with damages capped at $170 million.
 
 ## Earnings Aren't Cash
 
