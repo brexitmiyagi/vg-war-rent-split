@@ -1,0 +1,14 @@
+name: replicate
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  replicate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Rerun every model from a clean copy and compare outputs byte for byte
+        run: python scripts/replicate.py
