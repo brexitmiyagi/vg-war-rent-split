@@ -1,0 +1,13 @@
+year,capacity_end_mtpa,trade_mt,igu_utilisation_pct,fid_mtpa,us_spa_mtpa,source_capacity,source_trade,source_utilisation,source_fid
+2014,298.0,240.1,,,,"GIIGNL Annual Report 2015 (nameplate 298 Mtpa end-2014)","IGU WLR 2016 (2015 trade 244.8, up 4.7 MT on 2014)",,
+2015,301.5,244.8,,18.4,,"IGU WLR 2016","IGU WLR 2016",,"~25 bcm reached FID in 2015 (IEA, LNG Market Trends); /1.36"
+2016,339.7,258.0,,6.65,,"IGU WLR 2017","IGU WLR 2017",,"13.3 Mtpa in 2016-17 combined (IGU WLR 2018), split evenly"
+2017,369.0,293.1,83,6.65,,"IGU WLR 2018 (369 Mtpa as of March 2018)","IGU WLR 2018","IGU WLR 2019 (83% in 2017)","13.3 Mtpa in 2016-17 combined, split evenly"
+2018,393.0,313.8,85,21.5,,"IGU WLR 2019 (393 Mtpa Feb 2019)","IGU WLR 2020 (2019 trade 354.7, +40.9 MT)","IGU WLR 2019 (85% in 2018)","IGU WLR 2020"
+2019,430.5,354.7,81.4,70.8,,"IGU WLR 2020","IGU WLR 2020","IGU WLR 2021 (81.4% in 2019)","IGU WLR 2020 (record)"
+2020,452.9,356.1,74.6,3.25,,"IGU WLR 2021","IGU WLR 2021","IGU WLR 2021","IGU WLR 2021 (Energia Costa Azul only)"
+2021,459.5,372.3,80,41.6,9.9,"IGU WLR 2022","IGU WLR 2022","IGU WLR 2022 (80%)","derived: IGU WLR 2026 206 Mtpa in 2021-25 less 2022-25 values"
+2022,478.4,393.0,89,22.4,53.8,"IGU WLR 2023","IGU WLR 2024 (2023 trade 401.4, +8.4 MT)","IGU WLR 2024 (89% in 2022)","IGU WLR 2024"
+2023,488.0,401.4,88.7,58.8,27.8,"IGU WLR 2025 (488.0 end-2023; WLR 2024 said 482.5)","IGU WLR 2024","IGU WLR 2024","IGU WLR 2024 (2023 to end-Feb 2024)"
+2024,494.4,411.24,,14.8,7.8,"IGU WLR 2025","IGU WLR 2025",,"IGU WLR 2025"
+2025,524.5,437.0,83.9,68.4,40.0,"IGU WLR 2026","IGU WLR 2026","IGU WLR 2026","IGU WLR 2026"

@@ -1,0 +1,6 @@
+project,type,capex_usd_bn,capacity_mtpa,usd_per_tonne,fid,scope_note,source
+Woodside Louisiana LNG (Trains 1-3),greenfield,15.9,16.5,964,Apr 2025,"LNG project only; Woodside states ~US$960/t (excludes pipeline, financing)",Woodside ASX announcement 29 Apr 2025
+Rio Grande LNG Phase 1 (Trains 1-3),greenfield,14.9,17.6,847,Jul 2023,"$18.0bn total Phase 1 cost less $3.1bn financing costs; EPC + owner's costs",NextDecade FID release 12 Jul 2023
+Port Arthur LNG Phase 1,greenfield,13.0,13.0,1000,Mar 2023,"total project capex ~$13bn for ~13 Mtpa; may include some financing",Sempra FID release 20 Mar 2023
+Commonwealth LNG,greenfield,13.0,9.5,1368,2026,"~$13bn; release does not split out financing (upper bound)",Caturus / Commonwealth LNG FID release 2026
+VG bolt-ons (my assumption),brownfield,10.7,16.4,650,not FID,"ASSUMPTION in model; VG has not published a cost",model assumption

@@ -1,0 +1,18 @@
+item,value,unit,source
+us10y_2026-10-07,5.277,pct,Yahoo Finance ^TNX close 7 Oct 2026
+us10y_2026-06-30,4.418,pct,Yahoo Finance ^TNX close 30 Jun 2026
+us10y_2025-12-31,4.163,pct,Yahoo Finance ^TNX close 31 Dec 2025
+us10y_2026-06-02,4.455,pct,Yahoo Finance ^TNX (VGLNG 2034/2036 notes priced 1-2 Jun 2026)
+us10y_2026-04-15,4.282,pct,Yahoo Finance ^TNX (VGCP 6.000% 2036 notes issued April 2026; mid-month used)
+damodaran_implied_erp_2026-10-01,4.20,pct,Damodaran Online home page: Implied ERP on October 1 2026 (trailing 12 month with adjusted payout); T-bond 5.29%
+vgcp_2036_coupon,6.000,pct,Q2 2026 10-Q (issued April 2026; issue price not stated)
+vglng_2034_coupon,6.375,pct,Q2 2026 10-Q / VG release (priced at par June 2026)
+vglng_2036_coupon,6.625,pct,Q2 2026 10-Q / VG release (priced at par June 2026)
+igu_lng_trade_2015,245,Mt,IGU World LNG Report 2016 (2015 trade)
+igu_lng_trade_2019,354.7,Mt,IGU 2020 World LNG Report (2019 trade)
+plaquemines_placed_in_service_dec_2024,11400,USD m,"FY2024 10-K: 'In December 2024, we first produced LNG ... In December 2024, a portion of the facility's assets, representing $11.4 billion of costs, were placed in service in accordance with GAAP.'"
+consensus_eps_q3_2026,0.52645,USD,Yahoo Finance earningsTrend 8 Oct 2026 (7 analysts)
+consensus_eps_q4_2026,0.48275,USD,Yahoo Finance earningsTrend 8 Oct 2026 (7 analysts)
+consensus_revenue_q3_2026,4868.4,USD m,Yahoo Finance earningsTrend 8 Oct 2026
+vg_intraday_2026-10-08_1040ET,13.445,USD,Yahoo Finance regularMarketPrice 14:40 UTC 8 Oct 2026 (not a close)
+lng_intraday_2026-10-08_1040ET,277.741,USD,Yahoo Finance regularMarketPrice 14:39 UTC 8 Oct 2026 (not a close)

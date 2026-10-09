@@ -1,0 +1,8 @@
+item,value,unit,source
+shares_outstanding,206.53,m,StockAnalysis / Yahoo 8 Oct 2026
+production_guidance_2026_mid,53.5,Mt,Cheniere Q2 2026 results (53-54 Mt)
+share_contracted_through_mid_2030s,0.90 or more,fraction,"Cheniere Q2 2026 10-Q: '90% or more of the total anticipated production from the SPL Project and the CCL Project ... through the mid-2030s, excluding volumes from contracts with terms less than 10 years'"
+run_rate_cmi_margin_assumption,2.50-3.00,USD/MMBtu,Cheniere Q2 2026 call (CFO Zach Davis prepared remarks)
+exposure_per_usd1_at_90pct,10.64,USD/share,model_v14_addons.py (3.9% of 7 Oct close)
+exposure_per_usd1_at_95pct,5.32,USD/share,model_v14_addons.py (2.0% of 7 Oct close)
+close_2026-10-07,272.20,USD,Yahoo Finance

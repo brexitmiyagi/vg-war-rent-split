@@ -1,0 +1,8 @@
+anchor,low_usd_mmbtu,high_usd_mmbtu,basis,date,source,url
+Venture Global five-year SPA with Vitol (fee as reported by traders to Platts; VG does not disclose),2.80,3.20,on top of 119% of Henry Hub,2026-03-26,S&P Global Platts,https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/032626-venture-global-vitol-lng-deal-targets-upside-in-2026-27-spot-prices
+Cheniere long-run margin range used for planning and new contracts,2.50,3.00,Cheniere's own margin definition,2026-08-13,Cheniere Q2 2026 call (CFO Zach Davis; Anatol Feygin),https://www.fool.com/earnings/call-transcripts/2026/08/13/cheniere-energy-lng-q2-2026-earnings-call-transcript/
+Calcasieu Pass contracted 2026 cargoes (95% of potential),2.36,2.36,VG weighted fixed fee,2026-08-11,VG Q2 2026 investor presentation,https://s205.q4cdn.com/622838971/files/doc_financials/2026/q2/VG-Quarterly-Investor-Presentation_2Q2026_vF.pdf
+CME implied fee 2030 (JKM less 115% HH less 2),3.86,3.86,VG slide 12 formula,2026-10-02,CME settlements,https://www.cmegroup.com/markets/energy/natural-gas/lng-japan-korea-marker-platts-swap.settlements.html
+CME implied fee 2031 (JKM less 115% HH less 2),2.62,2.62,VG slide 12 formula,2026-10-02,CME settlements,https://www.cmegroup.com/markets/energy/natural-gas/lng-japan-korea-marker-platts-swap.settlements.html
+VG's own 2010-2026 median fee,5.19,5.19,VG slide 12 formula,2026-08-11,VG Q2 2026 investor presentation,https://s205.q4cdn.com/622838971/files/doc_financials/2026/q2/VG-Quarterly-Investor-Presentation_2Q2026_vF.pdf
+Flat open fee from 2027 that the 13.13 share price needs (my model),5.82,5.82,VG slide 12 formula,2026-10-02,valuation.py,

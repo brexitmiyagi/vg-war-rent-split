@@ -1,0 +1,10 @@
+item,VG,LNG,source
+close_2026-10-07,13.05,272.20,stockanalysis.com (S&P Global data)
+market_cap_bn,32.63,56.22,stockanalysis.com
+annual_dividend,0.16,2.22,VG: $0.04 quarterly approved Aug 2026 (Q2 2026 call); LNG: $0.555 quarterly (stockanalysis dividend page)
+dividend_yield_pct,1.2,0.82,derived from the two lines above / stockanalysis
+buyback_yield_pct,-0.77,4.98,stockanalysis statistics (S&P Global data)
+ebitda_per_usd1_fee_2026_musd,195,50,VG Q2 2026 deck 180-210 midpoint; Cheniere Q2 2026 call 'less than $50m'
+unsold_2026,9% of cargoes,<1 Mt,VG Aug 2026 release; Cheniere Q2 2026 call
+consensus_price_target,16.67,310.19,S&P Global via stockanalysis (18 and 22 analysts)
+next_earnings,2026-11-09,2026-10-29,stockanalysis

@@ -1,0 +1,20 @@
+item,value,unit,source
+total_debt_outstanding,42386,USD m,Q2 2026 10-Q Note 8
+cash_and_equivalents,3120,USD m,Q2 2026 10-Q balance sheet
+restricted_cash_current,68,USD m,Q2 2026 10-Q
+restricted_cash_noncurrent,1402,USD m,Q2 2026 10-Q
+vglng_series_a_preferred_quarterly_dividend,67,USD m,Q2 2026 10-Q
+class_a_shares,529,m,Q2 2026 10-Q
+class_b_shares,1969,m,Q2 2026 10-Q
+diluted_weighted_shares_q2,2643,m,Q2 2026 10-Q Note 16
+effective_tax_rate_q2,19.2,pct,Q2 2026 10-Q
+capex_h1_2026,6900,USD m,Q2 2026 10-Q MD&A
+capex_2026_guide,13000,USD m,Q2 2026 slide 16
+ebitda_guide_2026_low,8700,USD m,Q2 2026 release
+ebitda_guide_2026_high,9100,USD m,Q2 2026 release
+h1_2026_adjusted_ebitda,3863,USD m,Q2 2026 slide 29
+share_price_2026-10-02,13.13,USD,stockanalysis.com close
+share_price_2026-10-06,13.51,USD,stockanalysis.com close (S&P Global data)
+share_price_2026-10-07,13.05,USD,stockanalysis.com close Oct 7 2026 (S&P Global data)
+ppe_net_2026-06-30,53216,USD m,Q2 2026 10-Q balance sheet
+total_equity_2026-06-30,12079,USD m,Q2 2026 10-Q balance sheet (incl. NCI 3507)

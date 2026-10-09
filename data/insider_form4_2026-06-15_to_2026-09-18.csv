@@ -1,0 +1,10 @@
+owner,title,tx_dates,shares_sold,proceeds_usd_m,10b5-1_box_checked,note
+Keith D. Larson,General Counsel and Secretary,15 Jun - 17 Sep 2026,5917735,81.9,yes,"sales follow option exercises (code M) at $0.79"
+Jonathan W. Thayer,Chief Financial Officer,17 Jun - 18 Sep 2026,888888,11.9,yes,"monthly pairs of ~111k sales after exercises"
+Sarah Blake,SVP Chief Accounting Officer,14 Aug 2026,1000000,14.0,no,"after exercise at $1.55"
+Fory Musser,SVP Development,14-20 Aug 2026,741560,10.5,no,
+Brian Cothran,Chief Operating Officer,14 Sep 2026,152660,2.5,yes,
+Sari Beth Granat,(director/officer per Form 4),13 Aug 2026,200000,2.7,no,
+Jimmy D. Staton,(director per Form 4),13 Aug 2026,66000,0.9,no,
+TOTAL,7 insiders,15 Jun - 18 Sep 2026,8966843,124.3,"plan (box checked) 96.3; other 28.1","all sales follow option exercises; Michael Sabel bought 1,226 Class A shares at $13.035 on 12 Jun 2026; founders' Class B (VG Partners) not sold"
+# Source: SEC Form 4 XML filings for Venture Global (CIK 2007855) filed 15 Jun - 21 Sep 2026, parsed 8 Oct 2026 (efts full-text index, forms=4). Proceeds = sum of shares x reported weighted price.

@@ -1,0 +1,9 @@
+item,value,unit,source
+new_lng_export_capacity_by_2030,300,bcm_per_year,"IEA Gas 2025 press release, 27 Oct 2025: about 300 bcm per year of LNG export capacity set to be added by 2030, mainly US and Qatar. https://www.iea.org/news/coming-surge-in-lng-production-is-set-to-reshape-global-gas-markets"
+net_lng_supply_increase_by_2030,250,bcm_per_year,"IEA Gas 2025 press release, 27 Oct 2025: potential net LNG supply increase of 250 bcm a year by 2030"
+war_supply_losses_2026_2030,140,bcm_cumulative,"IEA Gas Market Report Q3-2026 executive summary: cumulative losses 2026-2030, equal to 15% of new LNG supply added 2026-2030, concentrated in 2026 and 2027; markets could remain tighter than expected over the next two years. https://www.iea.org/reports/gas-market-report-q3-2026/executive-summary"
+new_project_supply_2026,50,bcm,"IEA Gas Market Report Q3-2026: new projects in North America, Africa and Australia add close to 50 bcm in 2026"
+cp2_phase2_fid_capacity,40,bcm_per_year,"IEA Gas Market Report Q3-2026: CP2 peak capacity 40 bcm/yr, commercial operations second half of 2030; Delfin 6 bcm/yr and Commonwealth 13 bcm/yr from 2030"
+global_lng_trade_2025,436.98,mt,"IGU 2026 World LNG Report via Baird Maritime / SAFETY4SEA: record 436.98 Mt in 2025, +6.3%; US exports 110.74 Mt. https://safety4sea.com/igu-world-lng-report-global-lng-trade-hits-record-437-million-tonnes-in-2025/"
+us_lng_exports_2030_forecast,207.22,mt,"S&P Global Commodity Insights (CERA) via Platts, Sep 2026"
+bcm_per_mt_lng,1.36,bcm_per_mt,"standard conversion (1 Mt LNG ~ 1.36 bcm gas); author's conversion"

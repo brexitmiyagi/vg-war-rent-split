@@ -1,0 +1,42 @@
+item,value,unit,source
+plaq_q1_2025_new,7.88,usd_mmbtu,Q1 2026 deck Plaquemines slide (current basis)
+plaq_q2_2025_new,7.40,usd_mmbtu,Q2 2026 deck Plaquemines slide (current basis)
+plaq_q1_2026_new,4.46,usd_mmbtu,Q1 2026 deck Plaquemines slide
+plaq_q2_2026_new,8.12,usd_mmbtu,Q2 2026 deck Plaquemines slide
+plaq_fy2025_new,7.09,usd_mmbtu,Q1 and Q2 2026 decks
+plaq_q2_2025_old,7.09,usd_mmbtu,8-K 7 Jul 2025 (older basis)
+plaq_q3_2025_old,6.79,usd_mmbtu,8-K 6 Oct 2025 (older basis)
+plaq_q4_2025_old,6.02,usd_mmbtu,8-K 12 Jan 2026 and Q4 2025 deck (older basis)
+plaq_fy2025_old,6.65,usd_mmbtu,Q4 2025 deck (older basis)
+company_q1_2025_new,8.55,usd_mmbtu,Q1 2026 deck
+company_q2_2025_new,5.58,usd_mmbtu,Q2 2026 deck
+company_q1_2026_new,3.82,usd_mmbtu,Q1 2026 deck and 8-K 9 Apr 2026
+company_q2_2026_new,6.45,usd_mmbtu,Q2 2026 deck and 8-K 8 Jul 2026
+company_fy2025,5.87,usd_mmbtu,Q2 2026 deck (5.88 in Q1 2026 deck)
+company_contracted_fee_2026_aug,5.05,usd_mmbtu,Q2 2026 release and deck (91% of 2026 cargos)
+plaq_contracted_fee_2026_may,5.63,usd_mmbtu,Q1 2026 deck (80%)
+plaq_contracted_fee_2026_aug,6.25,usd_mmbtu,Q2 2026 deck (90%)
+share_2026_contracted_feb25,0.69,share,Q4 2025 deck appendix (as of 25 Feb 2026)
+share_2026_contracted_may12,0.84,share,Q1 2026 release (fee 4.51)
+fee_2026_contracted_may12,4.51,usd_mmbtu,Q1 2026 release
+cargo_high_may12,523,cargos,Q1 2026 release (494-523)
+share_2026_contracted_aug11,0.91,share,Q2 2026 release and deck (fee 5.05)
+cargo_high_aug11,518,cargos,Q2 2026 release (500-518); deck says % is relative to the high end
+jkm_q2_yoy,0.56,share,Q2 2026 deck slide 13
+company_q3_2026,6.79,usd_mmbtu,8-K 7 Oct 2026 (465.8 TBtu sold; same wording and basis as the Q1 and Q2 2026 8-Ks, which matched the decks)
+company_q3_2026_tbtu,465.8,tbtu,8-K 7 Oct 2026
+calcasieu_q3_2026_tbtu,137.7,tbtu,8-K 7 Oct 2026
+plaq_q3_2026_tbtu,328.1,tbtu,8-K 7 Oct 2026
+company_q2_2026_tbtu,466.4,tbtu,8-K 8 Jul 2026
+calcasieu_q2_2026_tbtu,137.5,tbtu,8-K 8 Jul 2026
+plaq_q2_2026_tbtu,328.9,tbtu,8-K 8 Jul 2026
+calcasieu_q1_2026_new,2.28,usd_mmbtu,Q1 2026 deck Calcasieu slide
+calcasieu_q2_2026_new,2.44,usd_mmbtu,Q2 2026 deck Calcasieu slide
+company_q3_2025_old,5.07,usd_mmbtu,8-K 6 Oct 2025 (older basis; on exports)
+company_q4_2025_old,5.15,usd_mmbtu,8-K 12 Jan 2026 (older basis)
+cargo_q4_2026_low,125,cargos,Q2 2026 deck quarterly forecast
+cargo_q4_2026_high,136,cargos,Q2 2026 deck quarterly forecast
+cargo_2026_low_aug,500,cargos,Q2 2026 release
+unsold_assumption_aug_low,12.50,usd_mmbtu,Q2 2026 release
+unsold_assumption_aug_high,13.50,usd_mmbtu,Q2 2026 release
+company_q1_2026_tbtu,480.8,tbtu,8-K 9 Apr 2026

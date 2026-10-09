@@ -1,0 +1,19 @@
+item,value,unit,source
+terminal_and_pipeline_facilities_gross,34943,USD m,Q2 2026 10-Q Note 5 (useful life 3-48 years)
+lng_tankers_gross,2038,USD m,Q2 2026 10-Q Note 5 (25 years)
+other_ppe_gross,724,USD m,Q2 2026 10-Q Note 5 (2-35 years; includes land)
+construction_in_progress,12421,USD m,Q2 2026 10-Q Note 5
+advanced_equipment_and_construction_payments,5331,USD m,Q2 2026 10-Q Note 5
+accumulated_depreciation,2241,USD m,Q2 2026 10-Q Note 5
+ppe_net,53216,USD m,Q2 2026 10-Q Note 5
+depreciation_expense_h1_2026,506,USD m,Q2 2026 10-Q Note 5
+depreciation_expense_q2_2026,257,USD m,Q2 2026 10-Q Note 5
+depreciation_and_amortization_h1_2026,511,USD m,Q2 2026 10-Q income statement
+cp2_capex_spent_to_date_aug_2026,15000,USD m,Q2 2026 investor presentation slide 8 ('$15Bn Total Capex Spent to Date')
+cp2_equity_spent_to_date_aug_2026,8000,USD m,Q2 2026 investor presentation slide 8
+commissioning_cargo_accounting,policy,text,"10-Q glossary: 'Proceeds from the sale of commissioning cargos are recognized in our financial statements as a reduction to the cost basis of construction in progress until assets are placed in service from an accounting perspective, the timing of which may differ from COD. After assets are placed in service from an accounting perspective, the proceeds are recognized as revenue'"
+adjusted_ebitda_definition,policy,text,"Q2 2026 release: built up from GAAP net income attributable to common stockholders; no add-back for commissioning proceeds credited to construction in progress"
+fixed_rate_debt_carrying_2026-06-30,26084,USD m,Q2 2026 10-Q fair value table
+fixed_rate_debt_fair_value_2026-06-30,23911,USD m,Q2 2026 10-Q fair value table (Level 1 84 + Level 3 ... total as reported)
+fixed_rate_debt_carrying_2025-12-31,25334,USD m,Q2 2026 10-Q fair value table
+fixed_rate_debt_fair_value_2025-12-31,25510,USD m,Q2 2026 10-Q fair value table

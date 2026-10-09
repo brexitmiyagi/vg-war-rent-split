@@ -1,0 +1,15 @@
+item,usd_m,maturity,source
+VGLNG senior secured notes (2029-2032 series; the 2028s were refinanced in June 2026),8750,2029-2032,FY2025 10-K debt table (VGLNG notes 2028-2032 11000 at 8.716% weighted) less 2250 of 2028s redeemed June 2026 (Q2 2026 10-Q)
+VGLNG senior secured notes 2034 (6.375%) and 2036 (6.625%),2250,2034-2036,Q2 2026 10-Q Note 8
+VGLNG notes blended coupon after the June 2026 refinancing (author calculation),8.38,pct,(8.716% x 11000 - 8.125% x 2250 + 6.5% x 2250) / 11000
+VGCP senior secured notes,5500,2029-2036,Q2 2026 10-Q Note 8
+VGPL senior secured notes,9500,2030-2036,Q2 2026 10-Q Note 8
+Plaquemines credit facilities,2683,2029,Q2 2026 10-Q Note 8
+CP2 Holdings equity bridge loans,1979,2028,Q2 2026 10-Q Note 8
+CP2 credit facilities (drawn),7520,2032,Q2 2026 10-Q Note 8
+cash and cash equivalents (consolidated),3120,30 Jun 2026,Q2 2026 10-Q liquidity table
+restricted cash,1470,30 Jun 2026,Q2 2026 10-Q liquidity table
+VGLNG revolving credit facility (undrawn),2000,2030,Q2 2026 10-Q liquidity table
+VGLNG 364-day senior secured revolver,3000,2027,8-K 2 Sep 2026 (to fund CP2 and Plaquemines bolt-on costs before their FIDs)
+CP2 construction term loan undrawn,11580,2032,Q2 2026 10-Q liquidity table
+total cash and available borrowing capacity,21515,30 Jun 2026,Q2 2026 10-Q liquidity table

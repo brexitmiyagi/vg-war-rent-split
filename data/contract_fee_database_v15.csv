@@ -1,0 +1,11 @@
+date_reported,seller_or_market,tenor_years,fee_low_usd_mmbtu,fee_high_usd_mmbtu,hh_multiple,fee_on_115pct_basis_mid,what_it_is,source
+2023-10-06,US market (20-year deals),20,2.40,2.50,1.15,2.45,"Poten: recent 20-year fees 'hovering around $2.40 and are creeping towards $2.50'",LNG Journal (Poten webinar) 6 Oct 2023
+2023-10-06,US market (developer asks),20,2.60,2.80,1.15,2.70,"Poten: some developers marketing at $2.60-2.80 and some customers buying",LNG Journal (Poten webinar) 6 Oct 2023
+2025-03-31,US market (fees under discussion),20,2.65,2.95,1.15,2.80,"Poten LNG in World Markets (March 2025): most US fees discussed at $2.65-2.95",Poten 2 Apr 2025
+2025-11-06,Venture Global (new long-term contracts),20,2.30,2.30,1.15,2.30,"Reuters: VG charging $2.30 in new contracts vs $1.75 at Calcasieu originally (two sources)",Reuters via Baird Maritime 6 Nov 2025
+2025-11-06,Cheniere (new long-term contracts),20,2.75,2.75,1.15,2.75,"Reuters (Poten's Feer): Cheniere charging 'a premium of over $2.75'",Reuters via Baird Maritime 6 Nov 2025
+2025-11-06,Woodside (10-year contracts),10,2.90,2.90,1.15,2.90,"Reuters (Poten's Feer): Woodside offering 10-year contracts at around $2.90",Reuters via Baird Maritime 6 Nov 2025
+2025-12-05,Indicative long-term US contract (Argus),20,3.00,3.00,1.15,3.00,"Argus indicative long-term contract price: 115% of Henry Hub plus $3 fee",Argus 5 Dec 2025
+2026-03-02,Venture Global (midterm),5,3.00,3.00,,3.00,"Sabel, Q4 2025 call: midterm contract 'north of a $3 net spread over five years' (floor, exact price not given)",Motley Fool transcript 2 Mar 2026
+2026-03-26,Venture Global to Vitol (5-year from 2026),5,2.80,3.20,1.19,3.15,"Platts (traders): 119% of Henry Hub plus $2.80-3.20; 115% basis adds ~0.04 x HH (~$0.15 at a $3.8 HH)",S&P Global Platts 26 Mar 2026
+2026-08-11,Calcasieu Pass contracted 2026 average,20,2.36,2.36,1.15,2.36,"VG Q2 2026 deck: 95% of potential 2026 cargos contracted at a weighted fee of $2.36",VG Q2 2026 investor presentation

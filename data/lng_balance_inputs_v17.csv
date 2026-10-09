@@ -1,0 +1,16 @@
+item,value,unit,source
+liquefaction_capacity_end_2025,524.5,Mtpa,IGU World LNG Report 2026 press release (7 Jul 2026)
+capacity_2030_incl_under_construction,"over 700 (about 40% above 2025)",Mtpa,IGU World LNG Report 2026 (via Mining Weekly / OGJ coverage)
+lng_trade_2025_igu,437,Mt,IGU World LNG Report 2026
+lng_trade_2025_shell,422,Mt,Shell LNG Outlook 2026 (via SAFETY4SEA)
+new_supply_by_2030_shell,180,Mt/yr,Shell LNG Outlook 2026 ('around 180 million tonnes per year of new LNG supply ... by 2030')
+net_supply_increase_by_2030_iea,250 bcm (~184 Mt),per year,IEA Gas 2025 (27 Oct 2025)
+war_losses_2026_2030_iea,140 bcm (~103 Mt) cumulative,,"IEA Gas Market Report Q3-2026, 'largely concentrated in 2026 and 2027'"
+demand_2050_shell,~700,Mt,Shell LNG Outlook 2026 (+65% on 2025)
+additional_supply_needed_beyond_UC_shell,~200,Mt/yr,Shell LNG Outlook 2026 (through the 2030s and 2040s)
+demand_2035_gecf,~700,Mt,GECF expert commentary May 2026 (producer forum)
+demand_2040_gecf,~785,Mt,GECF expert commentary May 2026
+exports_2024_gecf,406,Mt,GECF expert commentary May 2026
+gecf_alignment,"exports align with existing + under-construction capacity by the mid-2030s and exceed it thereafter",text,GECF expert commentary May 2026
+argus_spot_premium_over_lt_contract,"2025 (to 4 Dec) 4.11; 2024 4.63; 2023 5.37; 2022 20.13",USD/MMBtu,"Argus 5 Dec 2025: Argus Gulf coast fob spot premium over indicative LT contract (115% HH + $3)"
+vitol_signing_strip,"Cal27 JKM 15.125 (25 Mar 2026), 2027 HH 3.838",USD/MMBtu,S&P Global Platts 26 Mar 2026

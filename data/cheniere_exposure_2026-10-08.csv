@@ -1,0 +1,6 @@
+item,value,unit,source
+shares_outstanding,206.53,m,StockAnalysis (S&P Global) 8 Oct 2026
+production_guidance_2026_mid,53.5,Mt,Cheniere Q2 2026 results (53-54 Mt)
+share_contracted_through_mid_2030s,0.95,fraction,Cheniere: ~95% of SPL+CCL production contracted through the mid-2030s
+run_rate_cmi_margin_assumption,2.50-3.00,USD/MMBtu,Cheniere run-rate guidance assumption
+close_2026-10-07,272.20,USD,Yahoo Finance

@@ -1,0 +1,18 @@
+item,value,unit,source
+vg_close_2026-10-07,13.05,USD,Yahoo Finance chart API daily close
+vg_diluted_shares,2643,m,VG Q2 2026 10-Q Note 16 (diluted weighted)
+vg_total_debt_2026-06-30,42386,USD m,VG Q2 2026 10-Q Note 8
+vg_cash_and_restricted_2026-06-30,4590,USD m,VG Q2 2026 10-Q balance sheet (3120 + 68 + 1402)
+vg_series_a_preferred,3000,USD m,VG Q2 2026 investor presentation slide 28 ($3.0bn perpetual preferred)
+vg_nci_book_2026-06-30,3507,USD m,VG Q2 2026 10-Q balance sheet (Stonepeak ~23% of Calcasieu Pass Holdings; no market price)
+vg_ebitda_2026_guide,8700-9100,USD m,VG Q2 2026 investor presentation slide 5/16 (includes NCI share $150-170m)
+lng_close_2026-10-07,272.20,USD,Yahoo Finance chart API daily close
+lng_shares,206.534,m,Yahoo Finance sharesOutstanding / StockAnalysis 8 Oct 2026
+lng_debt_carrying_2026-06-30,24043,USD m,Cheniere Q2 2026 10-Q balance sheet (current 1411 + long-term 22632; excludes leases)
+lng_cash_and_restricted_2026-06-30,1519,USD m,Cheniere Q2 2026 10-Q balance sheet (1099 + 420)
+cqp_units_outstanding,484.058,m,Yahoo Finance / StockAnalysis 8 Oct 2026
+cqp_units_held_by_cheniere,239.9,m,Cheniere Q2 2026 10-Q (48.6% LP interest; remaining 49.4% non-controlling)
+cqp_close_2026-10-07,63.44,USD,Yahoo Finance chart API daily close
+lng_ebitda_2026_guide,7900-8400,USD m,Cheniere Q2 2026 results release 6 Aug 2026 (raised from 7250-7750)
+lng_contracted,90% or more of SPL+CCL production through the mid-2030s (contracts of 10+ years),text,Cheniere Q2 2026 10-Q
+live_check_2026-10-08_1102ET,"VG 13.525, LNG 278.38, CQP 63.83, US10Y 5.299",USD/pct,Yahoo Finance quote API 15:02 UTC (not used in the multiple; closes used for consistency)

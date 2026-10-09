@@ -1,0 +1,20 @@
+item,value,unit,source
+port_arthur_phase1_capex,13.0,USD bn,Sempra FID release 20 Mar 2023 (total capex estimate)
+port_arthur_phase1_capacity,13,Mtpa,Sempra FID release (approximately 13 Mtpa nameplate)
+port_arthur_contracted,10.5,Mtpa,Sempra FID release (long-term contractable capacity fully subscribed)
+port_arthur_sempra_share_ebitda_at_25pct,0.41,USD bn/yr,"Sempra FID release: at 25% indirect interest, share of average adjusted EBITDA after full COD ~ $410m"
+port_arthur_sempra_equity_at_25pct,1.55,USD bn,Sempra FID release (equity commitment ~ $1.55bn at 25%)
+port_arthur_debt,6.8,USD bn,Sempra FID release (non-recourse debt financing closed)
+port_arthur_cod,2027 (T1) / 2028 (T2),text,Sempra FID release
+louisiana_lng_stonepeak_contribution,5.7,USD bn,Woodside ASX 7 Apr 2025 (40% of InfraCo; 75% of 2025-26 capex)
+louisiana_lng_structure,"InfraCo owns liquefaction; long-term tolling agreement with HoldCo 'with competitive tolling fee terms'; HoldCo bears cost overruns, gas supply and offtake",text,Woodside ASX 7 Apr 2025
+louisiana_lng_return_terms,not disclosed,text,Woodside ASX 7 Apr 2025
+cheniere_run_rate_ebitda,8+ at $2.50-3.00 margins,USD bn,"Cheniere CFO Zach Davis, Q2 2026 call: '$8-plus billion of EBITDA ... run rate ... in our $2.50 to $3 margin range'"
+cqp_cash_restricted_2026-06-30,0.466,USD bn,CQP Q2 2026 10-Q (443 + 23)
+cqp_debt_2026-06-30,14.444,USD bn,CQP Q2 2026 10-Q (current 109 + long-term 14,335)
+cqp_ttm_ebitda,4.56,USD bn,S&P Global via StockAnalysis (TTM to Q2 2026)
+vg_ttm_ebitda,7.35,USD bn,S&P Global via StockAnalysis (TTM to Q2 2026)
+lng_ttm_ebitda,7.83,USD bn,S&P Global via StockAnalysis (TTM to Q2 2026)
+vg_contract_portfolio,"85 MTPA total: 47 long-term (10-20 yr), 6 medium-term, 32 available (incl. bolt-ons)",text,VG Q2 2026 deck slide 10
+vg_bolt_on_contracting,"'Expect a greater proportion of new bolt-on infrastructure to be contracted on a medium-term basis than we have historically secured'",text,VG Q2 2026 deck slide 10
+gecf_lrmc,"existing 2.86; under construction 2.76 (North America median 2.66); proposed 4.25 (North America median ~3.8-4.0)",USD/MMBtu,GECF expert commentary May 2026 (levelized real cost)

@@ -1,0 +1,7 @@
+project,type,capex_usd_bn,capacity_mtpa,usd_per_tonne,fid,source
+Woodside Louisiana LNG (Trains 1-3),greenfield,15.9,16.5,964,Apr 2025,Woodside ASX announcement 29 Apr 2025 (LNG project cost)
+Rio Grande LNG Phase 1 (Trains 1-3),greenfield,18.0,17.6,1023,Jul 2023,NextDecade (total Phase 1 capital costs ~$18.0bn)
+Port Arthur LNG Phase 1,greenfield,13.0,13.0,1000,Mar 2023,Sempra / offshore-technology (Phase 1 capex ~$13bn)
+Commonwealth LNG,greenfield,12.5,9.5,1316,2026,Commonwealth LNG FID reports (S&C release May 2026; $12.5-13bn)
+Corpus Christi Midscale Trains 8-9,brownfield,2.9,3.0,967,Jun 2025,Cheniere FID release (>3 MTPA; $2.9bn)
+VG bolt-ons (my assumption),brownfield,10.7,16.4,650,not FID,ASSUMPTION in model (VG has not published a cost)

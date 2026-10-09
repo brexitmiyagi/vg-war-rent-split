@@ -1,0 +1,11 @@
+entity,instrument,usd_m,type,source
+VGLNG (parent holdco),senior secured notes 2029-2036,11000,bullet notes,Q2 2026 10-Q debt note
+Calcasieu (VGCP),senior secured notes,5500,bullet notes,Q2 2026 10-Q debt note
+Calcasieu Funding,term loan B due 2033,1750,term loan,Q2 2026 10-Q debt note
+Plaquemines (VGPL),senior secured notes,9500,bullet notes,Q2 2026 10-Q debt note
+Plaquemines,credit facilities due 2029,2683,bank loans,Q2 2026 10-Q debt note
+CP2,credit facilities due 2032,7520,bank loans (drawn; total CP2 financing 20.7bn),Q2 2026 10-Q debt note; CP2 Phase 2 FID release
+CP2 Holdings,equity bridge loans due 2028,1979,bridge,Q2 2026 10-Q debt note
+Blackfin,pipeline debt,1215,,Q2 2026 10-Q debt note
+VG Shipping,ship financing,1155,,Q2 2026 10-Q debt note
+Other,,84,,Q2 2026 10-Q debt note

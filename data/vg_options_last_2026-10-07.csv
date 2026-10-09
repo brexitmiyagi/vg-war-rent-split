@@ -1,0 +1,15 @@
+expiry,type,strike,last_price,last_trade_date,note
+2028-01-21,put,7.5,0.70,2026-10-07,Yahoo Finance last trade; bid/ask not shown pre-open 8 Oct; re-price before use
+2028-01-21,put,10,1.59,2026-10-07,
+2028-01-21,put,12.5,2.60,2026-10-06,
+2028-01-21,put,15,4.35,2026-10-07,
+2029-01-19,put,7.5,1.10,2026-09-23,stale (two weeks)
+2029-01-19,put,10,2.20,2026-10-07,
+2029-01-19,put,12.5,3.40,2026-10-05,
+2029-01-19,put,15,5.25,2026-10-01,
+2028-01-21,put,7.5,bid 0.55 / ask 0.70,2026-10-08 10:40 ET,live quote (Yahoo); IV 0.568; OI 5353; VG 13.445 intraday
+2028-01-21,put,10,bid 1.25 / ask 1.55,2026-10-08 10:40 ET,live quote; IV 0.538; OI 1952
+2028-01-21,put,12.5,bid 2.45 / ask 2.75,2026-10-08 10:40 ET,live quote; IV 0.527; OI 4295
+2029-01-19,put,7.5,bid 1.05 / ask 1.25,2026-10-08 10:40 ET,live quote; IV 0.554; OI 108
+2029-01-19,put,10,bid 2.05 / ask 2.45,2026-10-08 10:40 ET,live quote; IV 0.545; OI 1015
+2029-01-19,put,12.5,bid 3.30 / ask 3.60,2026-10-08 10:40 ET,live quote; IV 0.512; OI 22

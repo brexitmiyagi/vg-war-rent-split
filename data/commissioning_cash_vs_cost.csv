@@ -1,0 +1,22 @@
+item,value_musd,source
+calcasieu_net_commissioning_proceeds_to_2024_09_30,14200,S-1 (Dec 2024): about 14.2bn net of cash paid for gas; 19.6bn gross; 342 cargos
+calcasieu_total_project_cost,9800,S-1: approximately 9.8bn
+plaquemines_revenue_2024,23,FY2025 10-K Note 23 segment table
+plaquemines_cost_of_sales_2024,14,FY2025 10-K Note 23
+plaquemines_revenue_2025,9175,FY2025 10-K Note 23
+plaquemines_cost_of_sales_2025,3863,FY2025 10-K Note 23
+plaquemines_test_lng_to_cip_2025,69,FY2025 10-K (net test LNG proceeds booked against construction cost)
+plaquemines_revenue_h1_2026,7159,Q2 2026 10-Q segment table
+plaquemines_cost_of_sales_h1_2026,3264,Q2 2026 10-Q segment table
+plaquemines_revenue_q2_2026,3766,Q2 2026 10-Q segment table
+plaquemines_cost_of_sales_q2_2026,1220,Q2 2026 10-Q segment table
+plaquemines_cost_low_s1,22000,S-1: 22 to 23bn (10-K says costs have increased since)
+plaquemines_cost_high_s1,23000,S-1
+cp2_cost_low_s1,27000,S-1: 27 to 28bn
+cp2_cost_high_s1,28000,S-1
+cp2_cost_low_10k,32500,FY2025 10-K: 32.5 to 33.5bn
+cp2_cost_high_10k,33500,FY2025 10-K
+plaquemines_fee_q2_2026,8.12,Q2 2026 deck (usd/MMBtu)
+plaquemines_tbtu_q2_2026,328.9,8-K 8 Jul 2026
+plaquemines_fee_q3_2026_est,8.65,war_capture.py back-out (usd/MMBtu)
+plaquemines_tbtu_q3_2026,328.1,8-K 7 Oct 2026
