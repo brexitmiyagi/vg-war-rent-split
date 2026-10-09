@@ -1,0 +1,22 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+calibrated all-in cost: 1.147 $/MMBtu; net debt end-2026 (est): 40.4 $bn
+futures to 2031, then $3.00                $  5.42/share   EBITDA path 2027:12.2, 2028:13.7, 2029:12.4, 2030:8.4, 2031:5.8
+TTF futures to 2031, then $3.00            $  4.80/share   EBITDA path 2027:12.0, 2028:12.3, 2029:9.8, 2030:6.3, 2031:5.4
+futures to 2029, then VG median $5.19      $ 12.05/share   EBITDA path 2027:12.2, 2028:13.7, 2029:12.4, 2030:11.0, 2031:10.3
+VG median $5.19 every year                 $ 10.91/share   EBITDA path 2027:5.6, 2028:9.0, 2029:12.3, 2030:11.0, 2031:10.3
+futures to 2028, then pre-war $6.00        $ 14.71/share   EBITDA path 2027:12.2, 2028:13.7, 2029:14.3, 2030:12.5, 2031:11.7
+flat fee implied by $13.05: 5.80
+  ke 9%: implied flat fee 4.86
+  ke 10%: implied flat fee 5.31
+  ke 11%: implied flat fee 5.80
+  ke 12%: implied flat fee 6.32
+  ke 13%: implied flat fee 6.88
+  cost 0.95: implied flat fee 5.29
+  cost 1.15: implied flat fee 5.80
+  cost 1.35: implied flat fee 6.32
+  capex x0.7: implied flat fee 5.53
+  capex x1.3: implied flat fee 6.07
+BP expected cost per share: 0.57
+bear 4.85  base 11.48  bull 14.14  weighted 25/50/25: 10.49  vs price 13.05: -20%
+each $1 on the 2029 open fee, after tax, per share per year: 0.76
+BP claim per diluted share: 1.40 to 2.27

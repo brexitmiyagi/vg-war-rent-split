@@ -1,0 +1,31 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+bear: futures to 2031, then 3.00     $  1.93/share
+base: futures to 2029, then 5.19     $ 12.33/share
+bull: futures to 2028, then 6.00     $ 16.74/share
+weighted 25/50/25: $10.83 vs price 13.05 (-17%)
+base case, $bn and $/share:
+  contracted book             31.8   12.04
+  open cargoes 2027-28        14.6    5.52
+  open cargoes 2029 on        55.6   21.05
+  committed capex            -22.7   -8.57
+  net debt end-2026          -40.4  -15.30
+  preferred                   -3.0   -1.14
+  Calcasieu minority          -1.9   -0.70
+  BP adjustment               -1.5   -0.57
+  equity                      32.6   12.33
+bear case open cargoes 2029 on: 10.65/share
+what the price pays for open cargoes from 2029 on: 21.77/share (base gives 21.05, bear 10.65)
+sensitivity of the base case ($/share):
+  contracted 6%: open 9% -> 16.83  open 10% -> 13.18  open 12% ->  8.10
+  contracted 7%: open 9% -> 15.98  open 10% -> 12.33  open 12% ->  7.25
+  contracted 8%: open 9% -> 15.23  open 10% -> 11.59  open 12% ->  6.51
+flat open fee from 2029 that the price needs on this method: 5.32 (futures kept for 2027-28)
+  with open cash at 9%: 4.72
+  with open cash at 12%: 6.59
+value at end-2028 ($/share), same cases:
+  bear: futures to 2031, then 3.00     $  3.76   (net debt end-2028 41.9 bn)
+  base: futures to 2029, then 5.19     $ 16.35   (net debt end-2028 41.9 bn)
+  bull: futures to 2028, then 6.00     $ 21.68   (net debt end-2028 41.9 bn)
+  weighted end-2028: $14.54 vs price 13.05 (+11%); base alone +25%
+today: base alone -5%, weighted -17%
+P/E at 13.05 on 2031 EPS: base 8.5x, futures all the way 104x

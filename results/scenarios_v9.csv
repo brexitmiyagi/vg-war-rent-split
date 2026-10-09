@@ -1,0 +1,4 @@
+scenario,long_run_fee,weight,value_today,value_end2028,vg_24m_total_return
+bear: long-run fee 2.50,2.5,0.3,4.66,6.49,-0.478
+base: 3.50,3.5,0.5,8.77,11.46,-0.097
+bull: 4.50,4.5,0.2,12.88,16.44,0.284

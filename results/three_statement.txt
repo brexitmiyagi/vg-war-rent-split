@@ -1,0 +1,13 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+central case: futures 2027-28, then 3.81 flat; CP2 contract fees +0.40 from 2030
+year  EBITDA  D&A  interest  tax  NI common  EPS  capex  FCF after div  net debt  net PP&E  equity change since end-2026  ND/EBITDA
+2027   12.49 1.25     2.55 1.65      6.61  2.50   10.0         -2.59      43.0      67.5          6.2       3.4x
+2028   13.67 1.60     2.71 1.78      7.15  2.71    8.0          0.29      42.7      73.9         13.0       3.1x
+2029    8.91 2.00     2.69 0.80      2.99  1.13    5.0         -0.49      43.2      76.9         15.6       4.9x
+2030    8.73 2.40     2.72 0.68      2.49  0.94    2.0          2.39      40.8      76.5         17.6       4.7x
+2031    8.50 2.60     2.57 0.63      2.27  0.86    1.0          3.39      37.4      74.9         19.5       4.4x
+multiple check 2030: EBITDA 8.73 x 8.1 (VG today) -> 8.89/share in 2030, 6.18 discounted at 12% a year to today (ASSUMPTION rate)
+multiple check 2030: EBITDA 8.73 x 10.3 (Cheniere today) -> 16.15/share in 2030, 11.24 discounted at 12% a year to today (ASSUMPTION rate)
+multiple check 2031: EBITDA 8.50 x 8.1 (VG today) -> 9.48/share in 2031, 5.89 discounted at 12% a year to today (ASSUMPTION rate)
+multiple check 2031: EBITDA 8.50 x 10.3 (Cheniere today) -> 16.55/share in 2031, 10.28 discounted at 12% a year to today (ASSUMPTION rate)
+P/E at 13.05 on central EPS: 2027 5.2x, 2028 4.8x, 2029 11.5x, 2030 13.9x, 2031 15.2x

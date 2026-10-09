@@ -1,0 +1,7 @@
+2027 curve fee (JKM - 1.15 x HH - 2): 15.41
+  Calcasieu third-party SPAs (10.0 MTPA): 520.0 TBtu -> 6.79 $bn above the contract fee
+  Plaquemines Phase 1 SPAs (13.3 MTPA, full year): 691.6 TBtu -> 9.03 $bn above the contract fee
+  Plaquemines Phase 2 SPAs (6.7 MTPA, from mid-2027): 174.2 TBtu -> 2.27 $bn above the contract fee
+SPA buyers total: 1386 TBtu, 18.08 $bn above contract, 14.16 $bn above the pre-war median
+Venture Global open volume: 675 TBtu, 8.81 $bn above contract, 6.90 $bn above the pre-war median
+ratio buyers/VG: 2.05

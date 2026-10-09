@@ -1,0 +1,5 @@
+2025-12-31: face 25,334, 10-Q fair value 25,510 (100.7%), implied yield 7.32%, 10-year 4.16%, spread 3.16 pts
+2026-06-30: face 26,084, 10-Q fair value 23,911 (91.7%), implied yield 9.20%, 10-year 4.42%, spread 4.78 pts
+new-issue spreads over the 10-year: VGLNG 2034 1.92, VGLNG 2036 2.17 (June 2026, at par); VGCP 2036 1.72 (April 2026)
+at today's 10-year 5.28%: parent secured ~7.32%, Calcasieu project secured ~7.00%
+caveat: the June fair value implies a much wider spread than the par pricing of the June notes; the two can't both be clean reads, so the piece leans on new-issue spreads.

@@ -1,0 +1,25 @@
+spot basis: JKM
+method check, Q2 2026: backed-out Plaquemines 8.13 vs deck 8.12
+Plaquemines Q3 2026 backed out: 8.62 to 8.68, using 8.65
+quarter  spot fee  prior-quarter spot  VG company  Plaquemines
+2025 Q1     7.22     8.98              8.55        7.88
+2025 Q2     6.41     7.22              5.58        7.40
+2026 Q1     6.49     4.30              3.82        4.46
+2026 Q2    11.89     6.49              6.45        8.12
+2026 Q3    17.43    11.89              6.79        8.65
+2025 Q3     6.21     6.41              5.07 (older 8-K basis, reference only)
+2025 Q4     4.30     6.21              5.15 (older 8-K basis, reference only)
+company, 5 quarters: same-quarter spot corr 0.27 slope 0.10, avg gap 4.18; prior-quarter spot corr 0.69 slope 0.42, avg gap 1.54
+Plaquemines, 5 quarters: same-quarter spot corr 0.62 slope 0.21, avg gap 3.25; prior-quarter spot corr 0.80 slope 0.46, avg gap 1.26
+Q2 -> Q3 2026: spot fee 11.89 -> 17.43 (+5.54); company 6.45 -> 6.79 (+0.34); Plaquemines 8.12 -> 8.65 (+0.53)
+Q3 2026: Plaquemines 8.65 vs same-quarter spot 17.43 and prior-quarter spot 11.89
+rough Q4 2026 company fee implied by August guidance arithmetic: 5.55 (full-year 5.64; nine months realized 5.67)
+cargos sold 12 May to 11 Aug 2026: about 32, implied fee 12.45 (rounding range 11.26 to 14.11) vs VG's own forward assumption 9.50-10.50 (May) and 12.50-13.50 (Aug)
+share of 2026 contracted on 25 Feb 2026, three days before the war: 69%
+2026 contracted company fee 5.05 vs FY2025 realized 5.87: -14%
+significance with five quarters (two-sided, t with 3 df):
+  company: same-quarter r 0.27 p 0.66; prior-quarter r 0.69 p 0.20; difference p 0.57 (not significant)
+  Plaquemines: same-quarter r 0.62 p 0.27; prior-quarter r 0.80 p 0.11; difference p 0.71 (not significant)
+Q3 2026 spread above Calcasieu's 2.36 on 465.8 TBtu at a 17.43 spot fee: 7.02 bn
+  Calcasieu's contract buyers: 2.08 bn; buyers of Plaquemines' forward-sold cargoes: 2.88 bn; Venture Global (Plaquemines above 2.36): 2.06 bn
+  shares: contract buyers 30%, forward buyers 41%, VG 29%

@@ -1,0 +1,8 @@
+base rates 7%/10%: today bear 4.88, base 8.99, bull 13.10, management 17.91 | end-2028 bear 6.29, base 11.27, bull 16.24, management 21.49 | weighted today 9.67, end-2028 12.04, 24m TR -5%
+CAPM-consistent 6%/9%: today bear 7.64, base 12.61, bull 17.59, management 22.49 | end-2028 bear 9.01, base 14.92, bull 20.83, management 26.02 | weighted today 13.35, end-2028 15.74, 24m TR +23%
+pair weighted +24.9% = VG-specific +5.3% + 1.51x Cheniere expected +20.4% - borrow 0.8%; 2-year volatility ~85%; VG-specific edge / 2-yr vol = 0.06
+Jan-2029 12.5/10 put spread, last trades (Oct 5/7): cost 1.20; expected payoff on my weights 1.18 -> -2%
+Jan-2029 12.5/10 put spread, live mid (12.5: 3.45, 10: 2.25): cost 1.20; expected payoff on my weights 1.18 -> -2%
+Jan-2029 12.5/10 put spread, live executable (pay 3.60, sell 2.05): cost 1.55; expected payoff on my weights 1.18 -> -24%
+  payoffs by scenario: bear 2.50, base 1.23, bull 0.00, management 0.00; live implied vols ~51-55% vs 78% realized since the war
+intraday 8 Oct ~10:40 ET: VG 13.445 (+3.0% vs 7 Oct close); fee the price needs 4.58 (vs 4.49)

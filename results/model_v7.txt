@@ -1,0 +1,50 @@
+price 13.05 (Oct 7 close); CME futures fees 2027-31: 2027 14.92, 2028 8.05, 2029 5.20, 2030 3.84, 2031 2.50
+cost: 2026 calibrated 1.147/MMBtu; underlying ex-basis 0.916/MMBtu; Plaquemines basis 0.435bn in 2026-27, half in 2028, zero from 2029
+CENTRAL (futures to 2031, then 3.50; central costs; bolt-ons in; CP2 +0.4): today 8.39, end-2028 11.07, implied equity return 14.7% a year incl. dividends
+  fee the price needs from 2032 (futures kept to 2031): 4.63
+  calibrated costs (v6 basis)  today   5.20  end-2028   7.34  needs  5.41
+  ex bolt-ons                  today   6.31  end-2028   8.31  needs  6.21
+  CP2 +0.00                    today   7.15  end-2028   9.65  needs  4.94
+  CP2 +0.85                    today   9.80  end-2028  12.68  needs  4.29
+long-run fee from 2032 -> value today (central costs) | end-2028 | today, calibrated costs | today ex bolt-ons
+   0.0    -5.99    -6.33    -9.18    -2.40
+   0.5    -3.94    -3.84    -7.12    -1.16
+   1.0    -1.88    -1.36    -5.07     0.09
+   1.5     0.17     1.13    -3.02     1.33
+   2.0     2.23     3.62    -0.96     2.57
+   2.5     4.28     6.10     1.09     3.82
+   3.0     6.34     8.59     3.15     5.06
+   3.5     8.39    11.07     5.20     6.31
+   4.0    10.45    13.56     7.26     7.55
+   4.5    12.50    16.05     9.31     8.79
+   5.0    14.56    18.53    11.37    10.04
+   5.5    16.61    21.02    13.42    11.28
+   6.0    18.67    23.51    15.48    12.52
+   6.5    20.72    25.99    17.53    13.77
+   7.0    22.78    28.48    19.59    15.01
+   7.5    24.83    30.97    21.64    16.25
+   8.0    26.89    33.45    23.70    17.50
+each $1 of long-run fee from 2032 is worth 4.11 a share today (31% of price)
+Henry Hub +$1 for good (JKM unchanged) ~ -1.15 on the long-run fee: -4.73 a share (long-run only; 2027-31 futures held)
+grid: value today by long-run fee (rows) and flat cost per MMBtu (columns 1.15, 0.92, 0.75, 0.60)
+  2.50     1.06     4.41     6.89     9.08
+  3.00     3.11     6.47     8.95    11.13
+  3.50     5.17     8.52    11.00    13.19
+  4.00     7.22    10.58    13.06    15.24
+  4.50     9.28    12.63    15.11    17.30
+  5.19    12.11    15.47    17.95    20.13
+  6.00    15.44    18.80    21.28    23.46
+2029 EBITDA at a $3 open fee, central costs, Aug volumes: 7.89bn (management, March: about 11; $5 -> 17)
+  March framework implies 3000 TBtu of 2029 open volume ($3.0bn per $1); May deck 1,850 ($1.80-1.90bn); Aug deck 2,475 ($2.45-2.50bn)
+  the extra ~525 TBtu of open volume in the March framework is worth ~1.09bn at $3; remaining gap 2.02bn
+  if management's 11bn is right (gap 3.11bn added from 2029): today 17.42, needs 2.44
+central path: year, EBITDA, EPS, FCF after dividends, net debt, ND/EBITDA
+  2027   12.24   2.42   -2.79   43.2   3.5x
+  2028   14.25   2.88    0.75   42.5   3.0x
+  2029   13.34   2.49    3.12   39.4   3.0x
+  2030    9.80   1.35    3.47   35.9   3.7x
+  2031    7.33   0.60    2.70   33.2   4.5x
+  multiple check 2030 at VG 8.1x: 14.06/share in 2030, 9.78 today at 12%
+  multiple check 2030 at Cheniere 10.3x: 22.22/share in 2030, 15.46 today at 12%
+  multiple check 2031 at VG 8.1x: 7.51/share in 2031, 4.67 today at 12%
+  multiple check 2031 at Cheniere 10.3x: 13.62/share in 2031, 8.46 today at 12%

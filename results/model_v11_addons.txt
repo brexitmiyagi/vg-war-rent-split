@@ -1,0 +1,19 @@
+through-cycle (TTF basis, 2011-Sep 2026, 189 months): shortage months 81 (43%) avg 9.60; wave avg 0.45; rebalancing avg 6.73; all non-shortage 2.54; all-months avg 5.57
+  price needs 4.49: shortage share needed 44% if other years look like 2015-20, 28% if they look like 2015-25 together; my 3.50 implies 33% (wave-like other years)
+  capture in this shortage: Q3 2026 company fee 6.79 vs spot-equivalent 17.43 = 39%
+market value of equity 32.6bn (2.498bn Class A+B at 13.05); net income vs FCF to common before dividends:
+  2027: net income  7.21  FCF -2.80  FCF yield -8.6%
+  2028: net income  7.32  FCF  0.55  FCF yield +1.7%
+  2029: net income  5.82  FCF  2.83  FCF yield +8.7%
+  2030: net income  2.95  FCF  3.34  FCF yield +10.2%
+  2031: net income  1.24  FCF  2.67  FCF yield +8.2%
+  2027-31 cumulative FCF 6.58bn vs net income 24.54bn
+quarterly estimates: quarter, volume TBtu, open TBtu, strip fee, EBITDA, D&A, interest, EPS
+  Q3 2026E   465.8  EBITDA  2.63  D&A 0.26  int 0.49  EPS  0.54
+  Q4 2026E    EBITDA  2.41  D&A 0.26  int 0.49  EPS  0.47
+  Q1 2027E   479.2  open   114  strip 19.30  EBITDA  2.84  D&A 0.27  int 0.49  EPS  0.60
+  Q2 2027E   466.2  open   111  strip 15.04  EBITDA  2.27  D&A 0.27  int 0.49  EPS  0.42
+  Q3 2027E   605.3  open   193  strip 14.02  EBITDA  3.39  D&A 0.27  int 0.49  EPS  0.77
+  Q4 2027E   669.3  open   257  strip 13.28  EBITDA  4.07  D&A 0.38  int 0.49  EPS  0.94
+  check: 2027 quarters sum EBITDA 12.57 (annual 12.57), EPS 2.73 (annual 2.73); 2026 H2 EBITDA 5.04 (guide-implied 5.04)
+  Q3 2026E uses the 8-K fee 6.79 on 465.8 TBtu and the 2026-calibrated all-in cost 1.147; Q4 2026E is the guidance-midpoint remainder

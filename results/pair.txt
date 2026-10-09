@@ -1,0 +1,16 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+item                                   VG          LNG
+close_2026-10-07                       13.05       272.20
+market_cap_bn                          32.63       56.22
+annual_dividend                        0.16        2.22
+dividend_yield_pct                     1.2         0.82
+buyback_yield_pct                      -0.77       4.98
+ebitda_per_usd1_fee_2026_musd          195         50
+unsold_2026                            9% of cargoes <1 Mt
+consensus_price_target                 16.67       310.19
+next_earnings                          2026-11-09  2026-10-29
+EV / 2026 EBITDA guide midpoint: VG 8.1x (EV 72.3bn at Oct 7), LNG 10.3x
+2026 EBITDA per $1 of fee as % of market cap: VG 0.60%
+2026 EBITDA per $1 of fee as % of market cap: LNG 0.09%
+VG long-run: each $1 of open fee from 2029 is worth 5.39 a share, 41% of the price (valuation_v6.py)
+Cheniere plans on a $2.50-3.00 long-run margin and has less than 1 Mt of 2026 unsold (Q2 2026 call); no comparable long-run sensitivity is published

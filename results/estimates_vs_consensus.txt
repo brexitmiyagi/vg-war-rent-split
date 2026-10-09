@@ -1,0 +1,5 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+year  my EBITDA $bn (base)  my EPS base  my EPS futures-all-the-way  consensus EPS
+2026      8.90      1.67      1.67  1.69
+2027     12.49      2.50      2.50  1.00
+2028     13.67      2.71      2.71  n/a

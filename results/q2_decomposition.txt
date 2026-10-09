@@ -1,0 +1,11 @@
+Q2 2026 income from operations: 2188 $m
+  Calcasieu                           67     3.1% of total
+  Plaquemines                       2212   101.1% of total
+  CP2                                -55    -2.5% of total
+  Sales and shipping                 211     9.6% of total
+  Corporate other eliminations      -247   -11.3% of total
+  Plaquemines segment EBITDA (op income + D&A): 2380 $m
+  Calcasieu segment EBITDA (op income + D&A): 113 $m
+Q2 fee gap, commissioning Plaquemines vs contracted Calcasieu: 5.68 $/MMBtu
+Phase 1 SPA volume per quarter: 172.9 TBtu -> at the Q2 gap that is 0.98 $bn a quarter moving to Phase 1 buyers at COD
+  Calcasieu H1 op income 2026 vs 2025: 249 vs 1085 (-77%)

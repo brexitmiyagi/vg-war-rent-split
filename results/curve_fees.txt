@@ -1,0 +1,7 @@
+2026: JKM 26.14  TTF 78.03 EUR  HH 3.357  fee (JKM) 20.28  fee (TTF) 19.70
+2027: JKM 21.10  TTF 63.28 EUR  HH 3.211  fee (JKM) 15.41  fee (TTF) 15.04
+2028: JKM 14.26  TTF 40.79 EUR  HH 3.674  fee (JKM) 8.03  fee (TTF) 7.14
+2029: JKM 11.36  TTF 31.20 EUR  HH 3.680  fee (JKM) 5.12  fee (TTF) 3.99
+2030: JKM 10.02  TTF 26.83 EUR  HH 3.667  fee (JKM) 3.80  fee (TTF) 2.57
+2031: JKM 8.68  TTF 25.31 EUR  HH 3.631  fee (JKM) 2.50  fee (TTF) 2.12
+2026 row covers Nov and Dec only.

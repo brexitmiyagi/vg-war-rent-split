@@ -1,0 +1,4 @@
+company  EV $bn  EV/EBITDA ttm  EV/2026 guide  debt/EBITDA  note
+VG       72.5    9.9x    8.1x   5.7x  91% of 2026 cargos contracted (Aug 2026); 42% of 2029
+LNG      83.7   10.7x   10.3x   3.3x  less than 1 Mt of 2026 unsold (Q2 2026 call); long-run margin planned at $2.50-3.00
+NEXT     12.3     n/m     n/m    n/m  pre-revenue; Rio Grande under construction

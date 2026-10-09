@@ -1,0 +1,17 @@
+LRMC at 8% after tax, VG opex 0.92, 21% tax, bonus depreciation: 20-year | 35-year | 35-year at 7% | 35-year no bonus
+  Woodside Louisiana LNG (Trains 1-3)        964/t  3.30 | 2.92 | 2.67 | 3.10
+  Rio Grande LNG Phase 1 (Trains 1-3)        847/t  3.01 | 2.68 | 2.46 | 2.84
+  Port Arthur LNG Phase 1                   1000/t  3.39 | 3.00 | 2.74 | 3.18
+  Commonwealth LNG                          1368/t  4.30 | 3.76 | 3.41 | 4.02
+  VG bolt-ons (my assumption)                650/t  2.52 | 2.27 | 2.10 | 2.39
+  three greenfield comps ex Commonwealth, 35-year: 2.68-3.00; 20-year: 3.01-3.39
+contracted fee 2027-28 -1 (2.00/1.60): EPS 2027 2.26 (-0.47), 2028 2.21 (-0.56); value today 8.09 (-0.90), end-2028 10.24 (-1.03)
+contracted fee 2027-28 +1 (4.00/3.60): EPS 2027 3.20 (+0.47), 2028 3.33 (+0.56); value today 9.89 (+0.90), end-2028 12.29 (+1.03)
+audit: 2027-28 contracted at $3.00/$2.60, not the $2.45 long-run contract average: value today +0.31, EPS 2027 +0.26
+VG: diluted mkt cap 34.49 + net debt 37.80 + preferred 3.0 + NCI (book) 3.51 = EV 78.8bn; 2026 guide mid 8.9 -> 8.85x
+Cheniere: mkt cap 56.22 + net debt 22.52 + CQP units held by others at market 15.49 = EV 94.2bn; 2026 guide mid 8.15 -> 11.56x
+VG at Cheniere's multiple on 2026 guidance: 22.17/share; on my 2028 EBITDA 14.24bn the same EV is 5.53x, on my 2031 7.43bn 10.61x
+Cheniere at 90% contracted: ~10.64/share per $1 of long-run margin (3.9% of price) [perpetuity at 10%, 21% tax, 53.5 Mt]
+Cheniere at 95% contracted: ~5.32/share per $1 of long-run margin (2.0% of price) [perpetuity at 10%, 21% tax, 53.5 Mt]
+pair per $1 short at Cheniere exposure 5.32/sh: bear +66%, base +31%, bull -4%, management -47%; weighted +24.9%
+pair per $1 short at Cheniere exposure 10.64/sh: bear +63%, base +31%, bull -1%, management -47%; weighted +24.7%

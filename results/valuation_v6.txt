@@ -1,0 +1,48 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+price 13.05 (close Oct 7 2026)
+2029 EBITDA at a $3 open fee: mine 6.90 bn vs management 'about 11' -> gap 4.10 bn; at $5: mine 11.85 vs management 17
+  the gap equals 0.96 $/MMBtu on all 4255 TBtu of 2029 volume, or 2.30 on the 1780 TBtu contracted
+payoff line: flat open fee from 2029 -> value per share today | end-2028 (my costs, CP2 +0.40) | today (management framework) | today (CP2 fee +0.85)
+   0.0   -14.38   -16.05    -3.74   -12.98
+   0.5   -11.68   -12.79    -1.05   -10.28
+   1.0    -8.98    -9.53     1.65    -7.58
+   1.5    -6.29    -6.26     4.35    -4.89
+   2.0    -3.59    -3.00     7.04    -2.19
+   2.5    -0.89     0.26     9.74     0.51
+   3.0     1.80     3.53    12.44     3.20
+   3.5     4.50     6.79    15.14     5.90
+   4.0     7.20    10.05    17.83     8.60
+   4.5     9.89    13.32    20.53    11.30
+   5.0    12.59    16.58    23.23    13.99
+   5.5    15.29    19.84    25.92    16.69
+   6.0    17.99    23.11    28.62    19.39
+   6.5    20.68    26.37    31.32    22.08
+   7.0    23.38    29.63    34.01    24.78
+   7.5    26.08    32.90    36.71    27.48
+   8.0    28.77    36.16    39.41    30.17
+slope: each $1 of long-run open fee is worth 5.39 a share today
+CME futures average 2029-31 (JKM method): 3.81; VG median 5.19
+  futures avg 2029-31    today   4.93  end-2028   7.39  mgmt framework today  16.81  CP2 +0.85 today   7.57
+  4.50                   today   8.65  end-2028  11.89  mgmt framework today  20.53  CP2 +0.85 today  11.30
+  VG median 5.19         today  12.37  end-2028  16.39  mgmt framework today  24.25  CP2 +0.85 today  15.02
+fee the price needs from 2029: my costs 5.32; management framework 3.11; CP2 fees +0.85 4.83
+CENTRAL (market-implied open fee 3.81 from 2029, CP2 fees +0.40): today 6.17, end-2028 8.81 (-32% vs price); fee the price needs 5.09
+  at VG's median 5.19 with CP2 +0.40: today 13.62, end-2028 17.82
+  same with CP2 fees +0.00: today 4.93, end-2028 7.39; with +0.85: today 7.57, end-2028 10.42
+  at VG's median 5.19 with CP2 +0.85: today 15.02, end-2028 19.43; management framework at futures: today 16.81, end-2028 20.99
+2026 Q1: implied fee margin 1837m less adjusted EBITDA 1372m = costs 465m, 0.97/MMBtu (model uses 1.15)
+2026 Q2: implied fee margin 3008m less adjusted EBITDA 2491m = costs 517m, 1.11/MMBtu (model uses 1.15)
+for management's 'about 11bn at $3' with my volumes and 2.45 contract fee, costs would have to be 0.18/MMBtu
+Henry Hub: +$1 on HH = -$1.15 on the open fee = -6.20 a share
+multiple check base (futures to 2029, then 5.19)  2030: EBITDA 10.96 x  8.1 ->  18.13/share in 2030 (undiscounted)
+multiple check base (futures to 2029, then 5.19)  2030: EBITDA 10.96 x 10.3 ->  27.26/share in 2030 (undiscounted)
+multiple check base (futures to 2029, then 5.19)  2031: EBITDA 10.32 x  8.1 ->  18.26/share in 2031 (undiscounted)
+multiple check base (futures to 2029, then 5.19)  2031: EBITDA 10.32 x 10.3 ->  26.85/share in 2031 (undiscounted)
+multiple check futures all the way                2030: EBITDA  8.32 x  8.1 ->   9.24/share in 2030 (undiscounted)
+multiple check futures all the way                2030: EBITDA  8.32 x 10.3 ->  16.17/share in 2030 (undiscounted)
+multiple check futures all the way                2031: EBITDA  5.85 x  8.1 ->   2.35/share in 2031 (undiscounted)
+multiple check futures all the way                2031: EBITDA  5.85 x 10.3 ->   7.22/share in 2031 (undiscounted)
+multiple check central 4.50                       2030: EBITDA  9.65 x  8.1 ->  13.22/share in 2030 (undiscounted)
+multiple check central 4.50                       2030: EBITDA  9.65 x 10.3 ->  21.25/share in 2030 (undiscounted)
+multiple check central 4.50                       2031: EBITDA  9.17 x  8.1 ->  13.45/share in 2031 (undiscounted)
+multiple check central 4.50                       2031: EBITDA  9.17 x 10.3 ->  21.08/share in 2031 (undiscounted)

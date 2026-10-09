@@ -1,0 +1,19 @@
+year  open TBtu  ring-fenced (CP2/expansion pre-completion)  VGC excess  share ring-fenced  open margin $bn  of which ring-fenced $bn
+2027        675                                       313         362                46%             9.78                    4.54
+2028       1625                                      1147         478                71%            11.57                    8.16
+2029       2475                                      1997         478                81%            10.41                    8.40
+2030       1900                                       711        1189                37%             5.48                    2.05
+2031       1664                                         0        1664                 0%             2.64                    0.00
+parent fixed charges a year: VGLNG interest ~0.92 (8.38% blended on 11.0bn), preferred 0.27, common dividend at $0.04/qtr 0.40 -> 1.59 bn
+2028: cash able to reach the parent before tax ~4.46 bn (VGC excess 3.40, Calcasieu+Plaquemines contracted after project interest 1.06) vs consolidated EBITDA in the model 14.24
+2029: cash able to reach the parent before tax ~3.13 bn (VGC excess 2.01, Calcasieu+Plaquemines contracted after project interest 1.12) vs consolidated EBITDA in the model 13.18
+maturity wall 2028-2032 (excluding project bonds that also fall due in the window):
+  2028: CP2 Holdings equity bridge loans 1.98bn
+  2029: Plaquemines credit facilities 2.68bn
+  2029-32: VGLNG senior secured notes (2029-2032 series; the 2028s were refinanced in June 2026) 8.75bn
+  total 13.41bn; VGCP notes (5.5bn, 2029-2036) and VGPL notes (9.5bn, 2030-2036) also start maturing in this window
+parent liquidity: VGLNG revolver 2.0bn undrawn (2030), 364-day revolver 3.0bn (signed 2 Sep 2026, runs to 2027), consolidated cash 3.12bn at 30 Jun
+CP2 lender sizing: 20.7bn at 6.5% over 18 years = 1.98bn debt service a year; at 1.40x the fixed-fee cash flow must be 2.78bn
+  on 962.0 TBtu of CP2 SPA volume (18.5 MTPA) that needs a fixed fee of about 3.29 with fixed opex 0.40/MMBtu (my model uses 2.45)
+  on 962.0 TBtu of CP2 SPA volume (18.5 MTPA) that needs a fixed fee of about 3.49 with fixed opex 0.60/MMBtu (my model uses 2.45)
+  on 962.0 TBtu of CP2 SPA volume (18.5 MTPA) that needs a fixed fee of about 3.69 with fixed opex 0.80/MMBtu (my model uses 2.45)

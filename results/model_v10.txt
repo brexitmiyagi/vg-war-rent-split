@@ -1,0 +1,59 @@
+price 13.05; fees 2027-31 15.41, 8.03, 5.12, 3.80, 2.50
+D&A v10 (CP2 placed in service at first LNG): 2026 1.03, 2027 1.19, 2028 1.76, 2029 2.16, 2030 2.22, 2031 2.22; run-rate 2.22
+BASE: today 8.99, end-2028 11.27, implied equity return 12.1%, needs 4.49, slope 4.11 (end-2028 4.97)
+CAPM: beta since IPO 0.92 (daily; v15 recompute 0.91, R^2 ~3%; weekly 0.40) vs SPY; since the war -2.6 daily; rf 5.28%; ERP 4.20% -> cost of equity 9.1%
+fee by regime (TTF basis mean/median | JKM basis mean, 2017+):
+  2011-14: post-Fukushima shortage             4.78   4.77 |   n=48
+  2015-20: Australia and first US wave         0.45   0.15 |   1.62  n=72
+  2021-22: post-COVID and Russia shortage     18.78  19.58 |  18.01  n=24
+  2023-25: rebalancing                         6.73   5.96 |   7.26  n=36
+  2026 (to Sep): Hormuz war                   10.81  10.77 |  11.94  n=9
+  IGU trade 2015 245 Mt -> 2019 354.7 Mt: +45%; IEA wave to 2030: +184 Mt on 437 Mt = +42%
+  contracted 8% / open 10%         today   7.86  end-2028  10.12  needs  4.76
+  contracted 7% / open 12%         today   5.71  end-2028   7.97  needs  6.00
+  CAPM-consistent 6% / 9%          today  12.61  end-2028  14.92  needs  3.59
+  fee and costs +2.5%/yr           today  10.67  end-2028  13.46  needs  3.88
+  costs +2.5%/yr, fee flat         today   4.64  end-2028   6.16  needs  5.55
+  no escalation                    today   8.12  end-2028  10.27  needs  4.70
+  ex bolt-ons                      today   6.92  end-2028   8.53  needs  5.97
+  CP2 +0.00                        today   7.70  end-2028   9.79  needs  4.80
+  CP2 +0.85                        today  10.44  end-2028  12.93  needs  4.14
+  calibrated costs (basis kept)    today   5.80  end-2028   7.53  needs  5.26
+  CP2 6-month delay                today   7.44  end-2028   9.41  needs  4.86
+  CP2 12-month delay               today   5.90  end-2028   7.56  needs  5.24
+  v9 accounting timing (D&A)       today   8.77  end-2028  11.06  needs  4.54
+  $138bn low end (fees ~2.10, CP2 +0): today 4.89, end-2028 6.57, needs 5.49
+  bonus depreciation upside +1.06
+management: mine at $3 7.92; gap 3.08; today 17.91, end-2028 21.49, needs 2.32
+  scenario Bear: the wave lands ($2.50)           25%: today   4.88 end-2028   6.29 TR -49%
+  scenario Base ($3.50)                           45%: today   8.99 end-2028  11.27 TR -11%
+  scenario Bull: replacement cost holds ($4.50)   20%: today  13.10 end-2028  16.24 TR +27%
+  scenario Management's 2029 framework holds      10%: today  17.91 end-2028  21.49 TR +67%
+  weighted: today 9.67, end-2028 12.04, 24-month TR -5%; equal weights: today 11.22, end-2028 13.82
+LRMC at 8% after tax, VG opex 0.92: 20-year contract only | 35-year life (15 more years at the same fee) | 7%, 35-yr | no bonus, 35-yr
+  Woodside Louisiana LNG (Trains 1-3)       964/t  3.30 | 2.92 | 2.67 | 3.10
+  Rio Grande LNG Phase 1 (Trains 1-3)      1023/t  3.44 | 3.05 | 2.78 | 3.23
+  Port Arthur LNG Phase 1                  1000/t  3.39 | 3.00 | 2.74 | 3.18
+  Commonwealth LNG                         1316/t  4.17 | 3.65 | 3.31 | 3.90
+  Corpus Christi Midscale Trains 8-9        967/t  3.30 | 2.93 | 2.68 | 3.11
+  VG bolt-ons (my assumption)               650/t  2.52 | 2.27 | 2.10 | 2.39
+EPS (revenue reading, central): 2027 2.73, 2028 2.77, 2029 2.20, 2030 1.12, 2031 0.47
+EPS (construction-cost reading, v9): 2027 1.91, 2028 2.12, 2029 2.02, 2030 1.20, 2031 0.57
+reported EBITDA central: 2027 12.57, 2028 14.24, 2029 13.18, 2030 9.78, 2031 7.43 | D&A 1.19, 1.76, 2.16, 2.22, 2.22
+FCF/ND central: 2027 -3.20/43.9, 2028 0.15/43.7, 2029 2.43/41.3, 2030 2.94/38.4, 2031 2.27/36.1
+2027 bridge: cash-model v8 2.71 -> D&A and capitalized interest on v10 dates +0.02 -> v10 2.73; consensus 1.00 needs 5.64bn less pre-tax, i.e. all 675 TBtu open at ~7.05; construction-cost reading 1.91
+2026 EPS 1.66; P/E at 13.05: 2027 4.8x, 2028 4.7x, 2029 5.9x, 2030 11.7x, 2031 27.9x
+judgment audit (value today, my choice minus the alternative):
+  Long-run fee $3.50, not VG's 2010-26 median $5.19          hurts VG  -6.95
+  Scenario weights 25/45/20/10, not equal                    hurts VG  -1.54
+  Contract fees $2.45 + $0.40 CP2, not the $138bn low end    helps VG  +4.10
+  Costs flat in dollars, not rising 2.5%/yr                  helps VG  +4.35
+  Fee and costs flat, not both rising 2.5%/yr                hurts VG  -1.69
+  Plaquemines basis cost gone from 2029                      helps VG  +3.19
+  Contract escalation included                               helps VG  +0.87
+  Bolt-ons included before FID                               helps VG  +2.07
+  Contracted 7% / open 10%, not CAPM-consistent 6% / 9%      hurts VG  -3.62
+  Bonus depreciation left out                                hurts VG  -1.06
+  BP claim at half the low end, not zero                     hurts VG  -0.57
+  CP2 on schedule, no delay                                  helps VG  +3.09
+Henry Hub +$1 for good: -4.73/sh; flat cost 0.92 at 3.50: 9.12, needs 4.46; cost the price needs at 3.50: 0.65; basis-cost removal worth 3.19

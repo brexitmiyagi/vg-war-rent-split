@@ -1,0 +1,12 @@
+annual spread (TTF basis) 2010-2025: 2010:1.2, 2011:4.0, 2012:6.8, 2013:4.9, 2014:3.4, 2015:2.3, 2016:-0.5, 2017:0.3, 2018:2.3, 2019:-0.5, 2020:-1.2, 2021:9.4, 2022:28.1, 2023:8.0, 2024:6.4, 2025:5.9
+vol of yearly change: all years 8.08 $/MMBtu; excluding changes into 2021-2024 2.08
+market-implied normal vol (CME TTF options, Apr-Oct 2027 expiries, 6 Oct 2026): 11.11 $/MMBtu per year; this is a monthly-contract vol, so it overstates the vol of an annual average
+year  forward fee  T   option value (all-years vol)  option value (calm vol)  option value (implied vol)  intrinsic
+2027   15.41  0.74   15.44   15.41   15.62   15.41
+2028    8.03  1.74    9.42    8.04   10.72    8.03
+2029    5.12  2.74    8.28    5.23   10.18    5.12
+2030    3.80  3.74    8.32    4.17   10.60    3.80
+2031    2.50  4.74    8.34    3.33   10.95    2.50
+average 2027-2031 option value with market-implied vol: 11.61
+average 2027-2031 option value per MMBtu: 9.96 (all-years vol), 7.23 (calm vol); Calcasieu buyers pay a fixed fee of 2.36
+Plaquemines Phase 1 (13.3 MTPA = 692 TBtu/yr), 2027-2031, option value above a 2.36 fee: 26.3 bn (all-years vol), 16.9 bn (calm vol)

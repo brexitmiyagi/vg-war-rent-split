@@ -1,0 +1,11 @@
+1. 2011-Sep 2026, shortage = 2011-14, 2021-22, 2026: 81/189 months = 43% shortage, avg fee 9.60; price (4.49) needs 44% if other years are wave-like, 28% if like this sample's other years (avg 2.54)
+1. 2015-Sep 2026, shortage = 2021-22, 2026 (2011-14 dropped): 33/141 months = 23% shortage, avg fee 16.60; price (4.49) needs 25% if other years are wave-like, 14% if like this sample's other years (avg 2.54)
+   definition: a shortage year = a calendar year in which a supply loss or demand shock pushed the market fee far above replacement cost (Fukushima and the oil-linked contract era 2011-14; Russia 2021-22; Hormuz 2026). All months of those years count.
+base: today 8.99, end-2028 11.27, weighted 9.67/12.04, fee needed 4.49
+2. CP2 +10% (+3.0bn): today 8.01 (-0.97), end-2028 10.15 (-1.11), weighted end-2028 10.93 (-1.11), fee needed 4.73 (+0.24)
+2. CP2 +20% (+6.0bn): today 7.04 (-1.95), end-2028 9.04 (-2.23), weighted end-2028 9.81 (-2.23), fee needed 4.96 (+0.47)
+3. +1.5 MTPA contracted from 2030 at 2.45: today 9.02 (+0.03), end-2028 11.28 (+0.01), weighted end-2028 12.06 (+0.02), fee needed 4.51 (+0.02)
+   open share of 2031 volume: 37.6% -> 35.9%
+4. long-run fee 3.90 (FIDs at the 2016-20 pace or slower, midpoint demand: market balanced at replacement cost): today 10.63, end-2028 13.25
+4. long-run fee 2.36 (history-paced FIDs, mean of all cases): today 4.30, end-2028 5.60
+4. long-run fee 3.00 (same, with 2011-26-rate shocks on top (upper bound)): today 6.94, end-2028 8.78

@@ -1,0 +1,30 @@
+1-2. Year by year: utilisation, structural surplus vs trend demand, the model's regime vs the regime paid
+   2015: utilisation 81.7% (IGU n/a) | surplus -2.2% -> shortage | fee   2.28 -> balanced MISS
+   2016: utilisation 80.5% (IGU n/a) | surplus -1.2% -> balanced | fee  -0.54 -> glut     MISS
+   2017: utilisation 82.7% (IGU 83) | surplus +3.1% -> balanced | fee   0.31 -> glut     MISS
+   2018: utilisation 82.4% (IGU 85) | surplus +4.7% -> balanced | fee   2.27 -> balanced OK
+   2019: utilisation 86.1% (IGU 81.4) | surplus +6.9% -> glut     | fee  -0.50 -> glut     OK
+   2020: utilisation 80.6% (IGU 74.6) | surplus +8.3% -> glut     | fee  -1.16 -> glut     OK
+   2021: utilisation 81.6% (IGU 80) | surplus +5.6% -> glut     | fee   9.41 -> shortage MISS (outside shock)
+   2022: utilisation 83.8% (IGU 89) | surplus +2.6% -> balanced | fee  28.14 -> shortage MISS (outside shock)
+   2023: utilisation 83.1% (IGU 88.7) | surplus -0.2% -> balanced | fee   7.97 -> balanced OK
+   2024: utilisation 83.7% (IGU n/a) | surplus -4.2% -> shortage | fee   6.37 -> balanced MISS
+   2025: utilisation 85.8% (IGU 83.9) | surplus -6.1% -> shortage | fee   5.86 -> balanced MISS
+   trend demand growth 5.9%/yr. Regime hit rate 4/11; excluding the 2021-22 shock 4/9
+   correlation with the fee: utilisation +0.22; surplus -0.10 (all years), -0.68 (without 2021-22)
+3. Fee curve (no-shock years, n=9): fee = 3.00 -46.3 x surplus; R^2 0.46; residual s.e. 2.66
+   implied fee at a balanced market (0%): 3.00; at +5%: 0.69; at +10%: -1.63; at -5%: 5.32
+4. Approvals vs the previous year's fee (global FIDs, IGU):
+   2016: FIDs   6.7 Mtpa after a 2015 fee of   2.28
+   2017: FIDs   6.7 Mtpa after a 2016 fee of  -0.54
+   2018: FIDs  21.5 Mtpa after a 2017 fee of   0.31
+   2019: FIDs  70.8 Mtpa after a 2018 fee of   2.27
+   2020: FIDs   3.2 Mtpa after a 2019 fee of  -0.50
+   2021: FIDs  41.6 Mtpa after a 2020 fee of  -1.16
+   2022: FIDs  22.4 Mtpa after a 2021 fee of   9.41
+   2023: FIDs  58.8 Mtpa after a 2022 fee of  28.14
+   2024: FIDs  14.8 Mtpa after a 2023 fee of   7.97
+   2025: FIDs  68.4 Mtpa after a 2024 fee of   6.37
+   after fees below $3: mean 25.1 Mtpa/yr (n=6, average fee 0.45); after fees of $3+: mean 41.1 (n=4, average fee 12.97)
+   response used forward: FIDs = 24.5 + 1.28 x last year's fee (bounded 0-70 Mtpa); correlation of FIDs with lagged fee +0.40 (lumpy: Qatar 2021, record 2019 at low fees)
+   US contracts lead US approvals (EIA): SPAs 2021-25 2021 10, 2022 54, 2023 28, 2024 8, 2025 40 Mtpa; the 2022 contracting record preceded the 2023 approvals, the 2024 DOE permit pause cut both, and 2025's 40 Mt preceded 2026's CP2 Phase 2, Commonwealth and Delfin approvals.

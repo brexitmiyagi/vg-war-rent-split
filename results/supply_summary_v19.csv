@@ -1,0 +1,9 @@
+item,value
+p_clear_central,0.0596
+p_clear_shocks,0.3240
+shortage_share_central,0.0468
+mean_fee_central,2.3597
+mean_fee_shocks,3.0011
+p_clear_noresp,0.0596
+mean_fee_noresp,1.7115
+breakeven_mid_1pct,15.1

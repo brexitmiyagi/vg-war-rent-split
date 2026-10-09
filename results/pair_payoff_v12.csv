@@ -1,0 +1,5 @@
+scenario,weight,vg_24m_tr,lng_24m_tr,pair_per_usd_short
+Bear ($2.50),0.25,-0.493,0.116,0.661
+Base ($3.50),0.45,-0.112,0.136,0.309
+Bull ($4.50),0.2,0.269,0.155,-0.042
+Management framework,0.1,0.671,0.136,-0.474

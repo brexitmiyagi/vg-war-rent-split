@@ -1,0 +1,17 @@
+shares: diluted 2.643bn (basic 2.489 + 154m options), outstanding A+B 2.498bn; market value diluted 34.5bn, basic 32.6bn
+  no-option-dilution sensitivity: today 9.51 (vs 8.99), end-2028 11.92 (vs 11.27)
+FCF to common before dividends, yield on diluted market value: 2027 -2.80 (-8.1%), 2028 0.55 (+1.6%), 2029 2.83 (+8.2%), 2030 3.34 (+9.7%), 2031 2.67 (+7.7%)
+  cumulative 2027-31 6.58bn = 19% of diluted market value; net income 24.54bn
+headline: price needs 4.49 vs base 3.50 = +28%; vs replacement cost ~3.00 = +50%
+TTF-basis bias: required shortage share by understatement of the 2011-14 fee:
+  +$0: shortage average 9.60, share needed 44%
+  +$1: shortage average 10.19, share needed 41%
+  +$2: shortage average 10.78, share needed 39%
+  +$3: shortage average 11.38, share needed 37%
+  +$5: shortage average 12.56, share needed 33%
+pair per $1 VG short, 24 months; Cheniere CAPM 6.6%/yr (13.6% over 24 months) plus 5.32/sh per $1 of long-run fee; borrow 0.8%
+  Bear ($2.50)           25%: VG -49%, LNG +11.6%, pair +66%
+  Base ($3.50)           45%: VG -11%, LNG +13.6%, pair +31%
+  Bull ($4.50)           20%: VG +27%, LNG +15.5%, pair -4%
+  Management framework   10%: VG +67%, LNG +13.6%, pair -47%
+  weighted pair return +25%; break-even: VG's 24-month total return of +20% (VG near $15.30); of the base-case pair return, +21% is simply 1.51x Cheniere's expected return

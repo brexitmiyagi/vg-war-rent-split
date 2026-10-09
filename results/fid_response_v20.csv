@@ -1,0 +1,5 @@
+item,value
+intercept,24.5056
+slope_per_usd_fee,1.2793
+mean_after_low_fee,25.0750
+mean_after_high_fee,41.1000

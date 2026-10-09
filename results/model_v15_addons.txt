@@ -1,0 +1,26 @@
+1. Reported fees on new US LNG contracts (115%-of-HH basis, midpoint) vs $4.49 needed:
+   2023-10-06  US market (20-year deals)                     20y  2.45
+   2023-10-06  US market (developer asks)                    20y  2.70
+   2025-03-31  US market (fees under discussion)             20y  2.80
+   2025-11-06  Venture Global (new long-term contracts)      20y  2.30
+   2025-11-06  Cheniere (new long-term contracts)            20y  2.75
+   2025-11-06  Woodside (10-year contracts)                  10y  2.90
+   2025-12-05  Indicative long-term US contract (Argus)      20y  3.00
+   2026-03-02  Venture Global (midterm)                       5y  3.00
+   2026-03-26  Venture Global to Vitol (5-year from 2026)     5y  3.15
+   2026-08-11  Calcasieu Pass contracted 2026 average        20y  2.36
+   highest reported: 3.15; gap to 4.49: 1.34; none at or above 4.49
+2. Port Arthur Phase 1 (Sempra FID numbers): project EBITDA ~1.64bn/yr on 13bn capex = 12.6% EBITDA yield; unlevered pre-tax IRR 8.9% over 20 years of contracts (10.0% over 30); after 21% tax with 15-year MACRS 7.6% (8.8%)
+   Cheniere EV 94.2bn on its own 'run rate' of $8bn+ at $2.50-3 margins: EBITDA yield ~8.5% (11.8x); CQP EV 44.7bn on TTM EBITDA 4.56bn: 10.2%
+   Louisiana LNG: Stonepeak's $5.7bn bought infrastructure equity behind a tolling agreement with cost overruns borne by HoldCo; return terms not disclosed
+3. Risk-neutral CDF from Jan-2029 call mids (r 4.5%, T 2.28y): P(<3.75)=18%, P(<6.25)=31%, P(<8.75)=45%, P(<11.25)=58%, P(<13.75)=62%, P(<16.25)=73%, P(<18.75)=76%, P(<22.50)=82%, P(<27.50)=87%
+   from put mids: P(<6.25)=28%, P(<8.75)=47%, P(<11.25)=55%, P(<13.75)=69%
+   P(price < 8.75 at Jan 2029): options (calls) 45% vs my weights 25%
+   P(price < 11.25 at Jan 2029): options (calls) 58% vs my weights 25%
+   P(price < 13.75 at Jan 2029): options (calls) 62% vs my weights 70%
+   P(price < 18.75 at Jan 2029): options (calls) 76% vs my weights 90%
+   options-implied median ~9.77; risk-neutral mean = forward ~14.27; my weighted end-2028 value 12.04; 12.5 put open interest only 22 contracts
+4. EV/EBITDA: 2026 guidance VG 8.9x, Cheniere 11.6x; TTM (S&P) VG 10.7x, Cheniere 12.0x, CQP 9.8x
+5. Contract portfolio (Q2 deck): 47/6/32 of 85 MTPA long/medium/available -> 38% uncontracted today, 45% once medium-term rolls off; each 1 MTPA left merchant = 52 TBtu; at $1 of fee that is ~$52m a year
+6. VGLNG notes due 2029-32: 8.75bn at a blended 8.87% (the 8.38% figure covers all 11.0bn incl. 2034/36); with Plaquemines bank debt (2029) 2.683bn and CP2 bridge (2028) 1.979bn: 13.4bn due 2028-32
+   beta VG on SPY since IPO: daily 0.91 (corr 0.18, R^2 3%, n 427); weekly 0.40 (corr 0.07, R^2 0%, n 89). The 0.92 used is the daily figure and explains ~3% of VG's moves.

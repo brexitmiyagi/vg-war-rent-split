@@ -1,0 +1,5 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+2027 at the futures fee 14.92: EBITDA 12.16 $bn, EPS 2.40
+  contracted fee 2.40: $1.00 of EPS needs an open fee of 9.52
+  contracted fee 3.00: $1.00 of EPS needs an open fee of 8.15
+  contracted fee 3.50: $1.00 of EPS needs an open fee of 7.01

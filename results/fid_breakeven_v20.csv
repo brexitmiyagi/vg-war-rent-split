@@ -1,0 +1,10 @@
+demand,legacy_decline,breakeven_no_shocks,breakeven_with_shocks
+Shell,0.0,4.2,6.1
+Shell,0.01,9.9,12.0
+Shell,0.02,15.4,17.4
+midpoint,0.0,21.5,22.1
+midpoint,0.01,26.9,27.8
+midpoint,0.02,31.8,32.9
+GECF,0.0,37.0,38.9
+GECF,0.01,42.5,44.5
+GECF,0.02,47.5,49.6

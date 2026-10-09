@@ -1,0 +1,15 @@
+Vitol fee 2.80: buyer keeps 1.82 bn over 2027-2030 at the curve
+  2027: spot fee on a 119% HH basis 15.28, buyer keeps  1.10 bn
+  2028: spot fee on a 119% HH basis  7.89, buyer keeps  0.45 bn
+  2029: spot fee on a 119% HH basis  4.98, buyer keeps  0.19 bn
+  2030: spot fee on a 119% HH basis  3.65, buyer keeps  0.08 bn
+Vitol fee 3.00: buyer keeps 1.75 bn over 2027-2030 at the curve
+  2027: spot fee on a 119% HH basis 15.28, buyer keeps  1.09 bn
+  2028: spot fee on a 119% HH basis  7.89, buyer keeps  0.43 bn
+  2029: spot fee on a 119% HH basis  4.98, buyer keeps  0.17 bn
+  2030: spot fee on a 119% HH basis  3.65, buyer keeps  0.06 bn
+Vitol fee 3.20: buyer keeps 1.68 bn over 2027-2030 at the curve
+  2027: spot fee on a 119% HH basis 15.28, buyer keeps  1.07 bn
+  2028: spot fee on a 119% HH basis  7.89, buyer keeps  0.41 bn
+  2029: spot fee on a 119% HH basis  4.98, buyer keeps  0.16 bn
+  2030: spot fee on a 119% HH basis  3.65, buyer keeps  0.04 bn

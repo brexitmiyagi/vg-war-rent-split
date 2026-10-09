@@ -1,0 +1,7 @@
+project,type,usd_per_tonne,fee_8pct,fee_7pct,fee_8pct_no_bonus,fee_8pct_opex_060
+Woodside Louisiana LNG (Trains 1-3),greenfield,964,3.30,3.06,3.51,2.98
+Rio Grande LNG Phase 1 (Trains 1-3),greenfield,1023,3.44,3.19,3.67,3.13
+Port Arthur LNG Phase 1,greenfield,1000,3.39,3.14,3.61,3.07
+Commonwealth LNG,greenfield,1316,4.17,3.85,4.45,3.85
+Corpus Christi Midscale Trains 8-9,brownfield,967,3.30,3.07,3.52,2.99
+VG bolt-ons (my assumption),brownfield,650,2.52,2.36,2.66,2.21

@@ -1,0 +1,18 @@
+LEGACY cross-check from an earlier version (v4-v6). The v7 numbers used in the piece are in results/model_v7.txt, waterfall.txt and pair_v7.txt.
+base: futures to 2029, then 5.19
+year  open fee  EBITDA $bn  EPS $   FCF to equity $bn  net debt $bn
+2026     guide       8.90    1.67                           40.4
+2027     15.41      12.49    2.50             -2.19         42.6
+2028      8.03      13.67    2.71              0.71         41.9
+2029      5.12      12.16    2.14              2.59         39.3
+2030      5.19      10.96    1.70              4.81         34.5
+2031      5.19      10.32    1.54              5.58         28.9
+futures all the way
+year  open fee  EBITDA $bn  EPS $   FCF to equity $bn  net debt $bn
+2026     guide       8.90    1.67                           40.4
+2027     15.41      12.49    2.50             -2.19         42.6
+2028      8.03      13.67    2.71              0.71         41.9
+2029      5.12      12.16    2.14              2.59         39.3
+2030      3.80       8.32    0.89              2.67         36.7
+2031      2.50       5.85    0.13              1.86         34.8
+P/E at 13.05: 2027 5.2x, 2028 4.8x, 2029 6.1x, 2031 8.5x (base)

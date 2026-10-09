@@ -1,0 +1,41 @@
+A. Calibration (midpoint demand, 1% decline, FIDs at 30.9 Mtpa/yr): balance vs what the market paid or prices
+   2025: supply   441 Mt, demand   437 | with IEA price response  +1% balanced | without  +1% balanced | fee ~6 (JKM avg 12.16, IGU): rebalancing
+   2026: supply   415 Mt, demand   456 | with IEA price response  -9% shortage | without  -9% shortage | fee 11-12: shortage
+   2027: supply   447 Mt, demand   475 | with IEA price response  -6% shortage | without  -6% shortage | futures fee 15.41
+   2028: supply   545 Mt, demand   495 | with IEA price response  +1% balanced | without +10% glut     | futures 8.03
+   2029: supply   579 Mt, demand   514 | with IEA price response  +3% balanced | without +13% glut     | futures 5.12
+   2030: supply   623 Mt, demand   533 | with IEA price response  +7% glut     | without +17% glut     | futures 3.80
+   2031: supply   641 Mt, demand   552 | with IEA price response  +7% glut     | without +16% glut     | futures 2.50
+B. Supply build, committed projects only (no new FIDs), 1% legacy decline after 2030; surplus before price response
+   2025: nameplate   524 Mtpa | supply   441 Mt | Shell +1% midpoint +1% GECF +1%
+   2026: nameplate   544 Mtpa | supply   415 Mt | Shell -8% midpoint -9% GECF -11%
+   2027: nameplate   592 Mtpa | supply   447 Mt | Shell -3% midpoint -6% GECF -9%
+   2028: nameplate   673 Mtpa | supply   545 Mt | Shell +16% midpoint +10% GECF +5%
+   2029: nameplate   713 Mtpa | supply   579 Mt | Shell +20% midpoint +13% GECF +6%
+   2030: nameplate   759 Mtpa | supply   623 Mt | Shell +26% midpoint +17% GECF +9%
+   2031: nameplate   769 Mtpa | supply   631 Mt | Shell +25% midpoint +14% GECF +5%
+   2032: nameplate   763 Mtpa | supply   627 Mt | Shell +21% midpoint +10% GECF +0%
+   2035: nameplate   748 Mtpa | supply   614 Mt | Shell +11% midpoint -2% GECF -13%
+   2040: nameplate   724 Mtpa | supply   593 Mt | Shell -2% midpoint -15% GECF -25%
+   2045: nameplate   700 Mtpa | supply   574 Mt | Shell -14% midpoint -26% GECF -35%
+   2049: nameplate   683 Mtpa | supply   559 Mt | Shell -21% midpoint -33% GECF -41%
+   check: rows tagged as inside IGU's 234.3 Mtpa under construction, + Arctic LNG 2's 13.2 = 234.0 Mtpa
+C. THE TEST: break-even FID pace = the constant Mtpa/yr of new FIDs from 2027 at which the 2032-49 flat fee is exactly 4.49
+   history (IGU): 2016-20 20.6 Mtpa/yr through a glut; 2021-25 41.2 Mtpa/yr; 2019 record and 2025 (68.4) near 70
+   Shell    decline 0%: today's price needs FIDs below  0.0 Mtpa/yr |  0.4 if shocks recur on top |  0.0 without the price response
+   Shell    decline 1%: today's price needs FIDs below  2.0 Mtpa/yr |  5.5 if shocks recur on top |  0.0 without the price response
+   Shell    decline 2%: today's price needs FIDs below  7.0 Mtpa/yr | 11.1 if shocks recur on top |  4.6 without the price response
+   midpoint decline 0%: today's price needs FIDs below 10.0 Mtpa/yr | 20.3 if shocks recur on top |  6.7 without the price response
+   midpoint decline 1%: today's price needs FIDs below 15.1 Mtpa/yr | 25.5 if shocks recur on top | 12.6 without the price response
+   midpoint decline 2%: today's price needs FIDs below 19.5 Mtpa/yr | 30.4 if shocks recur on top | 17.5 without the price response
+   GECF     decline 0%: today's price needs FIDs below 18.7 Mtpa/yr | 32.8 if shocks recur on top | 18.6 without the price response
+   GECF     decline 1%: today's price needs FIDs below 23.8 Mtpa/yr | 38.0 if shocks recur on top | 23.8 without the price response
+   GECF     decline 2%: today's price needs FIDs below 28.2 Mtpa/yr | 42.8 if shocks recur on top | 28.2 without the price response
+D. PROBABILITY: 3 demand paths x 3 decline rates (equal weights) x FID pace uniform between the two historical paces
+   with price response: fee clears 4.49 in 6% of cases (32% with shocks on top, mean fee 3.00); mean flat fee 2.36; structural shortage share 5% (price needs 44%)
+   without price response: fee clears 4.49 in 6% of cases (13% with shocks on top, mean fee 1.94); mean flat fee 1.71; structural shortage share 5% (price needs 44%)
+E. Robustness: other FID behaviour, central demand response, 2032-49 flat fee (balanced at 3.90 | at 7.00)
+   empirical: Shell 1.00|1.00 (0 shortage yrs); midpoint 1.47|1.97 (0 shortage yrs); GECF 2.72|4.56 (0 shortage yrs)
+   foresight: Shell 3.29|5.73 (0 shortage yrs); midpoint 3.90|7.00 (0 shortage yrs); GECF 3.90|7.00 (0 shortage yrs)
+   none     : Shell 5.28|6.64 (10 shortage yrs); midpoint 7.87|8.81 (15 shortage yrs); GECF 8.97|9.31 (17 shortage yrs)
+   central path at the slow pace (midpoint, 1%, 20.6/yr): 2026:S-9% 2027:S-6% 2028:B+1% 2029:B+3% 2030:G+7% 2031:G+6% 2032:B+5% 2033:B+3% 2034:B+2% 2035:B+1% 2036:B+0% 2037:B+0% 2038:B+0% 2039:B+0% 2040:B+0% 2041:B+0% 2042:B+0% 2043:B+0% 2044:B+0% 2045:B+0% 2046:B+0% 2047:B+0% 2048:B+0% 2049:B+0% -> fee 3.90

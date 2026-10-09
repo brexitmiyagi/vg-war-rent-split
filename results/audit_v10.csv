@@ -1,0 +1,13 @@
+judgment,direction,value_today_effect
+"Long-run fee $3.50, not VG's 2010-26 median $5.19",hurts VG,-6.95
+"Scenario weights 25/45/20/10, not equal",hurts VG,-1.54
+"Contract fees $2.45 + $0.40 CP2, not the $138bn low end",helps VG,+4.10
+"Costs flat in dollars, not rising 2.5%/yr",helps VG,+4.35
+"Fee and costs flat, not both rising 2.5%/yr",hurts VG,-1.69
+Plaquemines basis cost gone from 2029,helps VG,+3.19
+Contract escalation included,helps VG,+0.87
+Bolt-ons included before FID,helps VG,+2.07
+"Contracted 7% / open 10%, not CAPM-consistent 6% / 9%",hurts VG,-3.62
+Bonus depreciation left out,hurts VG,-1.06
+"BP claim at half the low end, not zero",hurts VG,-0.57
+"CP2 on schedule, no delay",helps VG,+3.09

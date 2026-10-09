@@ -1,0 +1,21 @@
+1. Committed supply (2025 trade + ~180 Mt new by 2030, less IEA war losses) vs demand paths, Mt and surplus % of demand:
+   2026: supply   418 | Shell path   433 (-3%) | GECF path   459 (-9%)
+   2027: supply   479 | Shell path   444 (+8%) | GECF path   486 (-1%)
+   2028: supply   535 | Shell path   455 (+17%) | GECF path   513 (+4%)
+   2030: supply   614 | Shell path   478 (+29%) | GECF path   566 (+8%)
+   2032: supply   617 | Shell path   500 (+23%) | GECF path   620 (-0%)
+   2035: supply   617 | Shell path   533 (+16%) | GECF path   700 (-12%)
+   2038: supply   617 | Shell path   567 (+9%) | GECF path   751 (-18%)
+   2040: supply   617 | Shell path   589 (+5%) | GECF path   785 (-21%)
+   committed supply exceeds both demand paths through 2030; GECF's path overtakes it around 2032-33, Shell's not before ~2045 (supply held flat after 2030, no plant retirements)
+2. Fee paths implied by the two balances, flat equivalent at 10%, and value:
+   glut lasts (Shell path): 2.75 to 2034, 3.25 after: flat-equivalent 3.10 -> value today 7.34, end-2028 9.27
+   tight by mid-2030s (GECF path): 3.00 to 2034, 4.00 after: flat-equivalent 3.70 -> value today 9.80, end-2028 12.24
+   average of the two 3.40 vs my 3.50 -> value today 8.57, end-2028 10.76
+3. Vitol five-year (signed Mar 2026) at ~$3.15 on a 115% basis vs the 2027 strip at signing: JKM 15.125 - 1.15 x HH 3.838 - 2 = 8.71; Oct 7 curve 2027-30 average fee 8.09. Contract fees sit far below the strip: they price volume and financing, not expected spot.
+4. 2023: Gulf Coast spot fob over a 115% HH + $3 contract: +5.37 -> implied spot fee ~8.37
+4. 2024: Gulf Coast spot fob over a 115% HH + $3 contract: +4.63 -> implied spot fee ~7.63
+4. 2025: Gulf Coast spot fob over a 115% HH + $3 contract: +4.11 -> implied spot fee ~7.11
+   my 2023-25 regime average on VG's formula: 6.73 (TTF) to 7.26 (JKM) - consistent; the 2015-20 wave averaged 0.45 / 1.62
+5. at 13.05: fee needed from 2032 4.49; base end-2028 TR -11%
+5. at 13.29: fee needed from 2032 4.55; base end-2028 TR -13%
